@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "description": "서비스 API 엔드포인트 상세 스펙. PRD.md + architecture.md 기반.",
+    "base_url": "/api/v1",
+    "version": "1.0.0"
+  },
+  "endpoints": [
+    {
+      "method": "POST",
+      "path": "/ocr/parse",
+      "description": "약물 사진 → AI Vision으로 약물 데이터 자동 추출",
+      "request": {
+        "content_type": "multipart/form-data",
+        "fields": {
+          "image": {
+            "type": "file",
+            "required": true,
+            "description": "촬영 이미지 (JPEG/PNG, 최대 10MB)"
+          },
+          "profile_id": {
+            "type": "UUID",
+            "required": true,
+            "description": "대상 프로필 ID"
+          }
+        }
+      },
+      "response_200": {
+        "ocr_session_id": "UUID",
+        "image_type": "prescription | med_bag | otc_box | supplement_label | other",
+        "confidence_score": 0.93,
+        "extracted_meds": [
+          {
+            "name": "암로디핀베실산염정 5mg",
+            "ingredient": "amlodipine besylate",
+            "dose": "1일 1회 1정",
+            "days": 30,
+            "type": "prescription",
+            "confidence": 0.95
+          }
+        ]
+      },
+      "errors": [
+        {
+          "code": 400,
+          "message": "이미지를 인식할 수 없습니다. 다시 촬영해주세요."
+        },
+        {
+          "code": 413,
+          "message": "이미지 크기가 너무 큽니다. (최대 10MB)"
+        },
+        {
+          "code": 503,
+          "message": "AI 서비스가 일시적으로 응답하지 않습니다. 잠시 후 다시 시도해주세요."
+        }
+      ]
+    },
+    {
+      "method": "POST",
+      "path": "/meds/:profileId",
+      "description": "인식된 약물 확인 후 등록. 등록 즉시 충돌 분석 자동 트리거.",
+      "request": {
+        "content_type": "application/json",
+        "body": {
+          "ocr_session_id": {
+            "type": "UUID",
+            "required": false,
+            "description": "OCR 세션 ID (카메라 등록 시)"
+          },
+          "medications": [
+            {
+              "name": {
+                "type": "string",
+                "required": true
+              },
+              "ingredient": {
+                "type": "string",
+                "required": true
+              },
+              "dose": {
+                "type": "string",
+                "required": false
+              },
+              "days": {
+                "type": "integer",
+                "required": false
+              },
+              "type": {
+                "type": "enum",
+                "values": [
+                  "prescription",
+                  "otc",
+                  "supplement"
+                ],
+                "required": true
+              },
+              "source": {
+                "type": "enum",
+                "values": [
+                  "camera",
+                  "manual"
+                ],
+                "required": true
+              }
+            }
+          ]
+        }
+      },
+      "response_201": {
+        "registered": [
+          {
+            "med_id": "UUID",
+            "name": "암로디핀베실산염정 5mg",
+            "status": "active"
+          }
+        ],
+        "interaction_result": {
+          "log_id": "UUID",
+          "risk_level": "safe | caution | contraindicated",
+          "summary": "충돌 위험이 없습니다. 안심하고 복용하세요.",
+          "interactions": []
+        }
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/meds/:profileId",
+      "description": "프로필별 현재 활성 약물 리스트 + 최신 충돌 분석 요약",
+      "response_200": {
+        "profile": {
+          "id": "UUID",
+          "name": "아버지"
+        },
+        "active_meds_count": 7,
+        "latest_risk_level": "caution",
+        "medications": [
+          {
+            "id": "UUID",
+            "name": "암로디핀베실산염정 5mg",
+            "ingredient": "amlodipine besylate",
+            "dose": "1일 1회 1정",
+            "type": "prescription",
+            "registered_at": "2025-02-01T09:00:00Z"
+          }
+        ]
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/meds/:profileId/:medId",
+      "description": "약물 비활성화 (복용 중단). 충돌 분석 재실행.",
+      "response_200": {
+        "med_id": "UUID",
+        "status": "inactive",
+        "deactivated_at": "2025-02-20T12:00:00Z",
+        "interaction_result": {
+          "log_id": "UUID",
+          "risk_level": "safe",
+          "summary": "남은 약물 간 충돌 위험이 없습니다."
+        }
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/analysis/check-interaction",
+      "description": "수동 충돌 분석 실행 (약물 등록/삭제 시 자동 호출되지만 수동 재분석도 가능)",
+      "request": {
+        "content_type": "application/json",
+        "body": {
+          "profile_id": {
+            "type": "UUID",
+            "required": true
+          },
+          "trigger_med_id": {
+            "type": "UUID",
+            "required": false,
+            "description": "분석 트리거 약물 (없으면 전체 재분석)"
+          }
+        }
+      },
+      "response_200": {
+        "log_id": "UUID",
+        "risk_level": "contraindicated",
+        "summary": "아스피린과 이부프로펜을 함께 드시면 안 돼요.",
+        "action_guide": "다음 진료 시 의사에게 '이부프로펜도 먹고 있다'고 말씀하세요.",
+        "interactions": {
+          "found_count": 1,
+          "details": [
+            {
+              "type": "contraindication",
+              "severity": "contraindicated",
+              "med_a": {
+                "id": "UUID",
+                "name": "아스피린정 100mg",
+                "ingredient": "aspirin"
+              },
+              "med_b": {
+                "id": "UUID",
+                "name": "이부프로펜정 200mg",
+                "ingredient": "ibuprofen"
+              },
+              "reason_plain": "아스피린과 이부프로펜을 함께 드시면 위장관 출혈 위험이 높아지고, 아스피린의 효과가 떨어질 수 있어요.",
+              "source": "DUR 병용금기"
+            }
+          ]
+        },
+        "disclaimer": "이 정보는 참고용이며, 의학적 진단을 대체하지 않습니다."
+      }
+    }
+  ]
+}

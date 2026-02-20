@@ -1,0 +1,26 @@
+﻿item_name,ingredient_eng,ingredient_kor,category,category_code,type,common_dose,etc_otc
+암로디핀베실산염정 5mg,amlodipine besylate,암로디핀베실산염,고혈압,C08CA01,prescription,1일 1회 5mg,전문
+메트포르민염산염정 500mg,metformin hydrochloride,메트포르민염산염,당뇨,A10BA02,prescription,1일 2~3회 500mg,전문
+아토르바스타틴칼슘정 10mg,atorvastatin calcium,아토르바스타틴칼슘,고지혈증,C10AA05,prescription,1일 1회 10mg,전문
+탐스로신염산염캡슐 0.2mg,tamsulosin hydrochloride,탐스로신염산염,전립선비대증,G04CA02,prescription,1일 1회 0.2mg,전문
+오메프라졸캡슐 20mg,omeprazole,오메프라졸,위장질환,A02BC01,prescription,1일 1회 20mg,전문
+아스피린장용정 100mg,aspirin,아스피린,혈전예방,B01AC06,prescription,1일 1회 100mg,전문
+리시노프릴정 10mg,lisinopril,리시노프릴,고혈압,C09AA03,prescription,1일 1회 10mg,전문
+알렌드로네이트나트륨정 70mg,alendronate sodium,알렌드로네이트나트륨,골다공증,M05BA04,prescription,1주 1회 70mg,전문
+레보티록신나트륨정 0.1mg,levothyroxine sodium,레보티록신나트륨,갑상선,H03AA01,prescription,1일 1회 0.05~0.2mg,전문
+클로피도그렐정 75mg,clopidogrel,클로피도그렐,혈전예방,B01AC04,prescription,1일 1회 75mg,전문
+글리메피리드정 2mg,glimepiride,글리메피리드,당뇨,A10BB12,prescription,1일 1회 1~4mg,전문
+심바스타틴정 20mg,simvastatin,심바스타틴,고지혈증,C10AA01,prescription,1일 1회 20mg,전문
+딜티아젬염산염서방정 180mg,diltiazem hydrochloride,딜티아젬염산염,고혈압/협심증,C08DB01,prescription,1일 1회 180~360mg,전문
+와파린나트륨정 2mg,warfarin sodium,와파린나트륨,항응고,B01AA03,prescription,개인별 INR 기준 조절,전문
+서트랄린정 50mg,sertraline,서트랄린,항우울,N06AB06,prescription,1일 1회 50~200mg,전문
+타이레놀정 500mg,acetaminophen,아세트아미노펜,해열진통,N02BE01,otc,"1회 1~2정, 1일 3회",일반
+이부프로펜연질캡슐 200mg,ibuprofen,이부프로펜,소염진통,M01AE01,otc,"1회 1캡슐, 1일 3회",일반
+판콜에이정,acetaminophen + chlorpheniramine + etc,아세트아미노펜+클로르페니라민+기타,종합감기,R05X,otc,"1회 2정, 1일 3회",일반
+게보린정,acetaminophen + isopropylantipyrine + caffeine,아세트아미노펜+이소프로필안티피린+카페인,두통/진통,N02BB,otc,"1회 1정, 1일 3회",일반
+은행잎추출물건강기능식품,Ginkgo biloba extract,은행잎추출물,혈행개선,HF-GINKGO,supplement,1일 1~2회,건강기능식품
+홍삼정건강기능식품,Red ginseng extract,홍삼,면역력,HF-GINSENG,supplement,1일 1~3회,건강기능식품
+오메가3건강기능식품,Omega-3 (EPA+DHA),오메가3지방산,혈행개선,HF-OMEGA3,supplement,1일 1~2회 (EPA+DHA 500~1000mg),건강기능식품
+칼슘마그네슘비타민D정,Calcium + Magnesium + Vitamin D,칼슘+마그네슘+비타민D,뼈건강,HF-CALCIUM,supplement,1일 1~2회,건강기능식품
+밀크씨슬건강기능식품,Milk thistle (Silymarin),밀크씨슬(실리마린),간건강,HF-MILKTHISTLE,supplement,1일 1~2회,건강기능식품
+코엔자임Q10건강기능식품,Coenzyme Q10,코엔자임Q10,항산화,HF-COQ10,supplement,1일 1회 100~200mg,건강기능식품

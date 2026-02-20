@@ -1,0 +1,252 @@
+[
+  {
+    "item_name": "암로디핀베실산염정 5mg",
+    "ingredient_eng": "amlodipine besylate",
+    "ingredient_kor": "암로디핀베실산염",
+    "category": "고혈압",
+    "atc_code": "C08CA01",
+    "med_type": "prescription",
+    "common_dose": "1일 1회 5mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "메트포르민염산염정 500mg",
+    "ingredient_eng": "metformin hydrochloride",
+    "ingredient_kor": "메트포르민염산염",
+    "category": "당뇨",
+    "atc_code": "A10BA02",
+    "med_type": "prescription",
+    "common_dose": "1일 2~3회 500mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "아토르바스타틴칼슘정 10mg",
+    "ingredient_eng": "atorvastatin calcium",
+    "ingredient_kor": "아토르바스타틴칼슘",
+    "category": "고지혈증",
+    "atc_code": "C10AA05",
+    "med_type": "prescription",
+    "common_dose": "1일 1회 10mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "탐스로신염산염캡슐 0.2mg",
+    "ingredient_eng": "tamsulosin hydrochloride",
+    "ingredient_kor": "탐스로신염산염",
+    "category": "전립선비대증",
+    "atc_code": "G04CA02",
+    "med_type": "prescription",
+    "common_dose": "1일 1회 0.2mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "오메프라졸캡슐 20mg",
+    "ingredient_eng": "omeprazole",
+    "ingredient_kor": "오메프라졸",
+    "category": "위장질환",
+    "atc_code": "A02BC01",
+    "med_type": "prescription",
+    "common_dose": "1일 1회 20mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "아스피린장용정 100mg",
+    "ingredient_eng": "aspirin",
+    "ingredient_kor": "아스피린",
+    "category": "혈전예방",
+    "atc_code": "B01AC06",
+    "med_type": "prescription",
+    "common_dose": "1일 1회 100mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "리시노프릴정 10mg",
+    "ingredient_eng": "lisinopril",
+    "ingredient_kor": "리시노프릴",
+    "category": "고혈압",
+    "atc_code": "C09AA03",
+    "med_type": "prescription",
+    "common_dose": "1일 1회 10mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "알렌드로네이트나트륨정 70mg",
+    "ingredient_eng": "alendronate sodium",
+    "ingredient_kor": "알렌드로네이트나트륨",
+    "category": "골다공증",
+    "atc_code": "M05BA04",
+    "med_type": "prescription",
+    "common_dose": "1주 1회 70mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "레보티록신나트륨정 0.1mg",
+    "ingredient_eng": "levothyroxine sodium",
+    "ingredient_kor": "레보티록신나트륨",
+    "category": "갑상선",
+    "atc_code": "H03AA01",
+    "med_type": "prescription",
+    "common_dose": "1일 1회 0.05~0.2mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "클로피도그렐정 75mg",
+    "ingredient_eng": "clopidogrel",
+    "ingredient_kor": "클로피도그렐",
+    "category": "혈전예방",
+    "atc_code": "B01AC04",
+    "med_type": "prescription",
+    "common_dose": "1일 1회 75mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "글리메피리드정 2mg",
+    "ingredient_eng": "glimepiride",
+    "ingredient_kor": "글리메피리드",
+    "category": "당뇨",
+    "atc_code": "A10BB12",
+    "med_type": "prescription",
+    "common_dose": "1일 1회 1~4mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "심바스타틴정 20mg",
+    "ingredient_eng": "simvastatin",
+    "ingredient_kor": "심바스타틴",
+    "category": "고지혈증",
+    "atc_code": "C10AA01",
+    "med_type": "prescription",
+    "common_dose": "1일 1회 20mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "딜티아젬염산염서방정 180mg",
+    "ingredient_eng": "diltiazem hydrochloride",
+    "ingredient_kor": "딜티아젬염산염",
+    "category": "고혈압/협심증",
+    "atc_code": "C08DB01",
+    "med_type": "prescription",
+    "common_dose": "1일 1회 180~360mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "와파린나트륨정 2mg",
+    "ingredient_eng": "warfarin sodium",
+    "ingredient_kor": "와파린나트륨",
+    "category": "항응고",
+    "atc_code": "B01AA03",
+    "med_type": "prescription",
+    "common_dose": "개인별 INR 기준 조절",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "서트랄린정 50mg",
+    "ingredient_eng": "sertraline",
+    "ingredient_kor": "서트랄린",
+    "category": "항우울",
+    "atc_code": "N06AB06",
+    "med_type": "prescription",
+    "common_dose": "1일 1회 50~200mg",
+    "etc_otc": "전문"
+  },
+  {
+    "item_name": "타이레놀정 500mg",
+    "ingredient_eng": "acetaminophen",
+    "ingredient_kor": "아세트아미노펜",
+    "category": "해열진통",
+    "atc_code": "N02BE01",
+    "med_type": "otc",
+    "common_dose": "1회 1~2정, 1일 3회",
+    "etc_otc": "일반"
+  },
+  {
+    "item_name": "이부프로펜연질캡슐 200mg",
+    "ingredient_eng": "ibuprofen",
+    "ingredient_kor": "이부프로펜",
+    "category": "소염진통",
+    "atc_code": "M01AE01",
+    "med_type": "otc",
+    "common_dose": "1회 1캡슐, 1일 3회",
+    "etc_otc": "일반"
+  },
+  {
+    "item_name": "판콜에이정",
+    "ingredient_eng": "acetaminophen + chlorpheniramine + etc",
+    "ingredient_kor": "아세트아미노펜+클로르페니라민+기타",
+    "category": "종합감기",
+    "atc_code": "R05X",
+    "med_type": "otc",
+    "common_dose": "1회 2정, 1일 3회",
+    "etc_otc": "일반"
+  },
+  {
+    "item_name": "게보린정",
+    "ingredient_eng": "acetaminophen + isopropylantipyrine + caffeine",
+    "ingredient_kor": "아세트아미노펜+이소프로필안티피린+카페인",
+    "category": "두통/진통",
+    "atc_code": "N02BB",
+    "med_type": "otc",
+    "common_dose": "1회 1정, 1일 3회",
+    "etc_otc": "일반"
+  },
+  {
+    "item_name": "은행잎추출물건강기능식품",
+    "ingredient_eng": "Ginkgo biloba extract",
+    "ingredient_kor": "은행잎추출물",
+    "category": "혈행개선",
+    "atc_code": "HF-GINKGO",
+    "med_type": "supplement",
+    "common_dose": "1일 1~2회",
+    "etc_otc": "건강기능식품"
+  },
+  {
+    "item_name": "홍삼정건강기능식품",
+    "ingredient_eng": "Red ginseng extract",
+    "ingredient_kor": "홍삼",
+    "category": "면역력",
+    "atc_code": "HF-GINSENG",
+    "med_type": "supplement",
+    "common_dose": "1일 1~3회",
+    "etc_otc": "건강기능식품"
+  },
+  {
+    "item_name": "오메가3건강기능식품",
+    "ingredient_eng": "Omega-3 (EPA+DHA)",
+    "ingredient_kor": "오메가3지방산",
+    "category": "혈행개선",
+    "atc_code": "HF-OMEGA3",
+    "med_type": "supplement",
+    "common_dose": "1일 1~2회 (EPA+DHA 500~1000mg)",
+    "etc_otc": "건강기능식품"
+  },
+  {
+    "item_name": "칼슘마그네슘비타민D정",
+    "ingredient_eng": "Calcium + Magnesium + Vitamin D",
+    "ingredient_kor": "칼슘+마그네슘+비타민D",
+    "category": "뼈건강",
+    "atc_code": "HF-CALCIUM",
+    "med_type": "supplement",
+    "common_dose": "1일 1~2회",
+    "etc_otc": "건강기능식품"
+  },
+  {
+    "item_name": "밀크씨슬건강기능식품",
+    "ingredient_eng": "Milk thistle (Silymarin)",
+    "ingredient_kor": "밀크씨슬(실리마린)",
+    "category": "간건강",
+    "atc_code": "HF-MILKTHISTLE",
+    "med_type": "supplement",
+    "common_dose": "1일 1~2회",
+    "etc_otc": "건강기능식품"
+  },
+  {
+    "item_name": "코엔자임Q10건강기능식품",
+    "ingredient_eng": "Coenzyme Q10",
+    "ingredient_kor": "코엔자임Q10",
+    "category": "항산화",
+    "atc_code": "HF-COQ10",
+    "med_type": "supplement",
+    "common_dose": "1일 1회 100~200mg",
+    "etc_otc": "건강기능식품"
+  }
+]

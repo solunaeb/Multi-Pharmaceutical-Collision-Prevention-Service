@@ -1,0 +1,5272 @@
+[
+  {
+    "ingredient_name_eng": "acetaminophen,tramadol hydrochloride",
+    "ingredient_code": "513000ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+    "product_count": 119,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "acetaminophen,tramadol hydrochloride",
+    "ingredient_code": "480600ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+    "product_count": 110,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "meloxicam",
+    "ingredient_code": "189701ACH",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 91,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levocetirizine dihydrochloride",
+    "ingredient_code": "463601ATB",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "(정제) 6세 미만의 유아에게는 정제가 아닌 액제를 투여할 것",
+    "product_count": 81,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ciprofloxacin hydrochloride (as ciprofloxacin)",
+    "ingredient_code": "134103ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 퀴놀론계 항균제는 몇몇 어린 동물종에서 특히 체중부하부위의 관절병증, 뼈연골증을 유발함",
+    "product_count": 69,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levofloxacin hydrate",
+    "ingredient_code": "183201ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 안전성 및 유효성 미확립, 퀴놀론계 항균제는 몇몇 어린 동물종에서 관절병증, 뻐연골증을 유발",
+    "product_count": 66,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "topiramate",
+    "ingredient_code": "241803ATB",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 60,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "milk thistle fruit ext.",
+    "ingredient_code": "123907ACS",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 53,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361331CSI",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 환자에게 비강 코르티코스테로이드의 투여에 대한 임상시험에서 성장속도가 감소될 수 있다는 결과 나타남. 2세 미만에서 안전성 및 유효성 미확립",
+    "product_count": 53,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tadalafil",
+    "ingredient_code": "560702ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 48,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "azelastine hydrochloride",
+    "ingredient_code": "112501ATB",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 47,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tadalafil",
+    "ingredient_code": "560701ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 47,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dutasteride",
+    "ingredient_code": "458801ACS",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 44,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "albendazol",
+    "ingredient_code": "104303ATB",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 43,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ibandronic acid monosodium salt monohydrate (as ibandronic acid)",
+    "ingredient_code": "480330BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 43,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sildenafil citrate (as sildenafil)",
+    "ingredient_code": "553304ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "다만, 발기부전치료에 한함",
+    "product_count": 43,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cetirizine dihydrochloride",
+    "ingredient_code": "130501ATB",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 42,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "terbinafine hydrochloride (as terbinafine)",
+    "ingredient_code": "235747ATB",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 42,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "topiramate",
+    "ingredient_code": "241801ATB",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 41,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dutasteride",
+    "ingredient_code": "458801ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 40,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ofloxacin",
+    "ingredient_code": "203901ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립. 몇몇 어린 동물종에서 관절이상을 유발함",
+    "product_count": 38,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "talniflumate",
+    "ingredient_code": "234401ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 37,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "terazosin hydrochloride (as terazosin)",
+    "ingredient_code": "235502ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 37,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "acetaminophen,tramadol hydrochloride",
+    "ingredient_code": "513000ATR",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+    "product_count": 31,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "acetaminophen,tramadol hydrochloride",
+    "ingredient_code": "514100ATR",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+    "product_count": 30,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ibandronate sodium monohydrate (as ibandronic acid)",
+    "ingredient_code": "480304ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 29,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "phentermine hydrochloride (as phentermine)",
+    "ingredient_code": "552701ATB",
+    "age_limit": "16",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 29,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sildenafil citrate(as sildenafil)",
+    "ingredient_code": "553303ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "다만, 발기부전치료에 한함",
+    "product_count": 27,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ciprofloxacin",
+    "ingredient_code": "134134BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 퀴놀론계 항균제는 몇몇 어린 동물종에서 특히 체중부하부위의 관절병증, 뼈연골증을 유발함",
+    "product_count": 26,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tramadol hydrochloride",
+    "ingredient_code": "242330BIJ",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+    "product_count": 25,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levofloxacin",
+    "ingredient_code": "183234BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 안전성 및 유효성 미확립, 퀴놀론계 항균제는 몇몇 어린 동물종에서 관절병증, 뻐연골증을 유발",
+    "product_count": 24,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tadalafil",
+    "ingredient_code": "560702ATD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 24,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "duloxetine hydrochloride (as duloxetine)",
+    "ingredient_code": "495501ACE",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 18세 미만의 청소년의 주요우울장애의 치료에는 사용해서는 안됨.만 7세에서 17세까지의 주요우울장애 환자에서 플루옥세틴 군보다 이상사례(주로 오심)로 인한 중단 및 자살행동 높음.",
+    "product_count": 23,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "phendimetrazine tartrate",
+    "ingredient_code": "552601ATB",
+    "age_limit": "16",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 23,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "piroxicam",
+    "ingredient_code": "214031BIJ",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "벤질알코올은 조숙아에게서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고됨",
+    "product_count": 22,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levocetirizine dihydrochloride",
+    "ingredient_code": "463637ALQ",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "(액제) 1세 미만의 영아에 대한 사용 경험이 적어 투여하지 않음. 1세 이상 6세 미만의 소아에 대한 임상시험 결과, 가장 흔하게 나타난 이상반응은 발열, 설사, 구토, 중이염이었음.",
+    "product_count": 21,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "duloxetine hydrochloride (as duloxetine)",
+    "ingredient_code": "495502ACE",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 18세 미만의 청소년의 주요우울장애의 치료에는 사용해서는 안됨.만 7세에서 17세까지의 주요우울장애 환자에서 플루옥세틴 군보다 이상사례(주로 오심)로 인한 중단 및 자살행동 높음.",
+    "product_count": 21,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "acetaminophen(encapsulated)",
+    "ingredient_code": "101430ATR",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 고령자(노인)는 최소 필요량을 복용하고 이상반응에 유의. 과도한 체온강하, 허탈, 사지냉각 등이 나타날 수 있음",
+    "product_count": 20,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tadalafil",
+    "ingredient_code": "560703ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 20,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levofloxacin hydrate",
+    "ingredient_code": "183203ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 안전성 및 유효성 미확립, 퀴놀론계 항균제는 몇몇 어린 동물종에서 관절병증, 뻐연골증을 유발",
+    "product_count": 18,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lidocaine, prilocaine",
+    "ingredient_code": "537600CCM",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "흡수에 대한 자료가 불완전하므로 소아의 생식기 점막에는 적용하지 말 것. 메트헤모글로빈의 일시적 증가 보고",
+    "product_count": 18,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen(f.)",
+    "ingredient_code": "179901CPL",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 17,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "meloxicam",
+    "ingredient_code": "189702ACH",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 17,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tadalafil",
+    "ingredient_code": "560703ATD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 17,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179733CCM",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 16,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sodium tianeptine",
+    "ingredient_code": "229601ATB",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 16,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ciprofloxacin",
+    "ingredient_code": "134135BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 퀴놀론계 항균제는 몇몇 어린 동물종에서 특히 체중부하부위의 관절병증, 뼈연골증을 유발함",
+    "product_count": 15,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "loratadine",
+    "ingredient_code": "185401ATB",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 15,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "diclofenac-β-dimethyl-aminoethanol",
+    "ingredient_code": "143631BIJ",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "벤질알코올은 조숙아에서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고됨",
+    "product_count": 14,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketorolac tromethamine",
+    "ingredient_code": "180033BIJ",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 14,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levofloxacin hydrate",
+    "ingredient_code": "183202ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 안전성 및 유효성 미확립, 퀴놀론계 항균제는 몇몇 어린 동물종에서 관절병증, 뻐연골증을 유발",
+    "product_count": 14,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361333CCM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 14,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cetirizine dihydrochloride",
+    "ingredient_code": "130501ACS",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 14,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "Calcium pantothenate, Cyanocobalamin, Milk-thistle Fruit Dry Extract(Milk Thistle Dry Extract), Nicotinamide, Pyridoxine hydrochloride. Thiamine nitrate",
+    "ingredient_code": "306600ACS",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 14,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158332BIJ",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 조산아에 펜타닐, 판쿠로늄, 아트로핀이 포함된 응급마취 및 수술 시 메트헤모글로빈혈증이 드물게 보고됨",
+    "product_count": 13,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levofloxacin",
+    "ingredient_code": "183233BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 안전성 및 유효성 미확립, 퀴놀론계 항균제는 몇몇 어린 동물종에서 관절병증, 뻐연골증을 유발",
+    "product_count": 13,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361342CLT",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 13,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levofloxacin",
+    "ingredient_code": "183235BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 안전성 및 유효성 미확립, 퀴놀론계 항균제는 몇몇 어린 동물종에서 관절병증, 뻐연골증을 유발",
+    "product_count": 12,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "olanzapine",
+    "ingredient_code": "204001ATB",
+    "age_limit": "13",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 체중증가, 진정, 총콜레스테롤, 중성지방, LDL콜레스테롤, 프로락틴과 간 아미노트랜스퍼라제 수치가 성인에 비해 증가",
+    "product_count": 12,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "olanzapine",
+    "ingredient_code": "204002ATB",
+    "age_limit": "13",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 체중증가, 진정, 총콜레스테롤, 중성지방, LDL콜레스테롤, 프로락틴과 간 아미노트랜스퍼라제 수치가 성인에 비해 증가",
+    "product_count": 12,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ammonium chloride, chlorpheniramine maleate, dihydrocodeine tartrate, DL-methylephedrine hydrochloride",
+    "ingredient_code": "532500ASY",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "12세 미만 소아는 호흡억제 감수성이 큼. 12세 미만 소아에서 사망을 포함하는 중증 호흡억제 위험이 크다는 국외 보고 있음.",
+    "product_count": 12,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "bicalutamide",
+    "ingredient_code": "117201ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 11,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158331BIJ",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 조산아에 펜타닐, 판쿠로늄, 아트로핀이 포함된 응급마취 및 수술 시 메트헤모글로빈혈증이 드물게 보고됨",
+    "product_count": 11,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "polystyrene sulfonate calcium",
+    "ingredient_code": "215430ASS",
+    "age_limit": "1",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 11,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "diethylpropion hydrochloride",
+    "ingredient_code": "551601ATB",
+    "age_limit": "16",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 11,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lidocaine, prilocaine",
+    "ingredient_code": "661000CCM",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "흡수에 대한 자료가 불완전하므로 소아의 생식기 점막에는 적용하지 말 것. 메트헤모글로빈의 일시적 증가 보고",
+    "product_count": 11,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lidocaine, prilocaine",
+    "ingredient_code": "661600CCM",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "흡수에 대한 자료가 불완전하므로 소아의 생식기 점막에는 적용하지 말 것. 메트헤모글로빈의 일시적 증가 보고",
+    "product_count": 11,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "propofol",
+    "ingredient_code": "219835BIJ",
+    "age_limit": "36",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아에게 마취 목적으로 투여 시 심장-호흡기계 억제 보고 후두염 및 후두개염으로 진단된 소아에게 진정 목적으로 이약을 장기간(3~5일) 투여 시 사망 보고",
+    "product_count": 10,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361334CCM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 10,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361347CCM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 10,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158333BIJ",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 조산아에 펜타닐, 판쿠로늄, 아트로핀이 포함된 응급마취 및 수술 시 메트헤모글로빈혈증이 드물게 보고됨",
+    "product_count": 9,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "loratadine",
+    "ingredient_code": "185401ACS",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 9,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "zolpidem tartrate",
+    "ingredient_code": "250501ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 현기증, 두통, 환각을 포함한 정신 신경계 이상반응이 위약군에 비해 흔하게 나타남",
+    "product_count": 9,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "doxylamine succinate",
+    "ingredient_code": "149801ATB",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아에 항히스타민제 투여 시 paradoxical excitation 유발 가능",
+    "product_count": 9,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "olanzapine",
+    "ingredient_code": "204004ATB",
+    "age_limit": "13",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 체중증가, 진정, 총콜레스테롤, 중성지방, LDL콜레스테롤, 프로락틴과 간 아미노트랜스퍼라제 수치가 성인에 비해 증가",
+    "product_count": 8,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "venlafaxine hydrochloride (as venlafaxine)",
+    "ingredient_code": "247504ACR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 소아 임상 시험에서 자살생각(suicidal ideation)의 이상반응이 관찰됨. 적개심 및 특히 주요 우울 장애의 경우, 자해(self-harm)의 보고 증가",
+    "product_count": 8,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ammonium chloride, chlorpheniramine maleate, dihydrocodeine tartrate, DL-methylephedrine hydrochloride",
+    "ingredient_code": "532600ASY",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "12세 미만 소아는 호흡억제 감수성이 큼. 12세 미만 소아에서 사망을 포함하는 중증 호흡억제 위험이 크다는 국외 보고 있음.",
+    "product_count": 8,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ciprofloxacin hydrochloride (as ciprofloxacin)",
+    "ingredient_code": "134105ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 퀴놀론계 항균제는 몇몇 어린 동물종에서 특히 체중부하부위의 관절병증, 뼈연골증을 유발함",
+    "product_count": 7,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135837CLQ",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 7,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "doxycycline hydrate",
+    "ingredient_code": "149501ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 8세 이상 신중투여, 다만 다른 약을 사용할 수 없거나 효과가 없는 경우에만3. 소아 등(특히 치아 형성기인 12세 미만의 소아)에 투여 시, 치아의 착색 및 법량질 형성 부전 또는 일괄성 골발육 부전을 일으킬 수 있음",
+    "product_count": 7,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "loperamide hydrochloride",
+    "ingredient_code": "185102ACH",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 7,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "polystyrene sulfonate calcium",
+    "ingredient_code": "215402AGN",
+    "age_limit": "1",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 7,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "propofol",
+    "ingredient_code": "219836BIJ",
+    "age_limit": "36",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아에게 마취 목적으로 투여 시 심장-호흡기계 억제 보고 후두염 및 후두개염으로 진단된 소아에게 진정 목적으로 이약을 장기간(3~5일) 투여 시 사망 보고",
+    "product_count": 7,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tramadol hydrochloride",
+    "ingredient_code": "242331BIJ",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+    "product_count": 7,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "venlafaxine hydrochloride (as venlafaxine)",
+    "ingredient_code": "247502ACR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 소아 임상 시험에서 자살생각(suicidal ideation)의 이상반응이 관찰됨. 적개심 및 특히 주요 우울 장애의 경우, 자해(self-harm)의 보고 증가",
+    "product_count": 7,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361339CLT",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 7,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levocetirizine dihydrochloride",
+    "ingredient_code": "463634ALQ",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "(액제) 1세 미만의 영아에 대한 사용 경험이 적어 투여하지 않음. 1세 이상 6세 미만의 소아에 대한 임상시험 결과, 가장 흔하게 나타난 이상반응은 발열, 설사, 구토, 중이염이었음.",
+    "product_count": 7,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "xylometazoline hydrochloride",
+    "ingredient_code": "249610CSI",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 7,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ciprofloxacin",
+    "ingredient_code": "134133BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 퀴놀론계 항균제는 몇몇 어린 동물종에서 특히 체중부하부위의 관절병증, 뼈연골증을 유발함",
+    "product_count": 6,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen(f.) (서방형)",
+    "ingredient_code": "179903CPL",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 6,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mirtazapine",
+    "ingredient_code": "196201ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음. 소아(7~17세) 임상시험에서 7% 이상 체중이 증가된 환자 비율이 위약군보다 높음.",
+    "product_count": 6,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mirtazapine",
+    "ingredient_code": "196202ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음. 소아(7~17세) 임상시험에서 7% 이상 체중이 증가된 환자 비율이 위약군보다 높음.",
+    "product_count": 6,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "piroxicam potassium (as piroxicam)",
+    "ingredient_code": "214130BIJ",
+    "age_limit": "80",
+    "age_unit": "세 (3)",
+    "age_condition": "이상 (4)",
+    "detail": "중증의 위장관계 이상반응을 일으킬 위험은 연령에 따라 증가함. 고령자는 중대한 위장관계 이상반응의 위험이 더 클 수 있음.",
+    "product_count": 6,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "propofol",
+    "ingredient_code": "219833BIJ",
+    "age_limit": "36",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아에게 마취 목적으로 투여 시 심장-호흡기계 억제 보고 후두염 및 후두개염으로 진단된 소아에게 진정 목적으로 이약을 장기간(3~5일) 투여 시 사망 보고",
+    "product_count": 6,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "propofol",
+    "ingredient_code": "219834BIJ",
+    "age_limit": "36",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아에게 마취 목적으로 투여 시 심장-호흡기계 억제 보고 후두염 및 후두개염으로 진단된 소아에게 진정 목적으로 이약을 장기간(3~5일) 투여 시 사망 보고",
+    "product_count": 6,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361338CCM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 6,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "eszopiclone",
+    "ingredient_code": "680401ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "18세 미만의 소아 환자에서의 안전성 및 유효성 미확립",
+    "product_count": 6,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "eszopiclone",
+    "ingredient_code": "680402ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "18세 미만의 소아 환자에서의 안전성 및 유효성 미확립",
+    "product_count": 6,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "eszopiclone",
+    "ingredient_code": "680403ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "18세 미만의 소아 환자에서의 안전성 및 유효성 미확립",
+    "product_count": 6,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sildenafil citrate(as sildenafil)",
+    "ingredient_code": "553303ATD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "다만, 발기부전치료에 한함",
+    "product_count": 6,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "milk thistle fruit ext.",
+    "ingredient_code": "123908ACS",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 5,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "codeine phosphate",
+    "ingredient_code": "137703ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "코데인이 모르핀으로 대사되는 과정이 다양하고 예측 불가능하여 모르핀으로 인한 독성이 나타날 위험이 있음",
+    "product_count": 5,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158330BIJ",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 조산아에 펜타닐, 판쿠로늄, 아트로핀이 포함된 응급마취 및 수술 시 메트헤모글로빈혈증이 드물게 보고됨",
+    "product_count": 5,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mirtazapine",
+    "ingredient_code": "196201ATD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음. 소아(7~17세) 임상시험에서 7% 이상 체중이 증가된 환자 비율이 위약군보다 높음.",
+    "product_count": 5,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mirtazapine",
+    "ingredient_code": "196202ATD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음. 소아(7~17세) 임상시험에서 7% 이상 체중이 증가된 환자 비율이 위약군보다 높음.",
+    "product_count": 5,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "moxifloxacin hydrochloride (as moxifloxacin)",
+    "ingredient_code": "380301ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 5,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "moxifloxacin",
+    "ingredient_code": "801601BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 5,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179912CPO",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 5,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "nifuroxazide",
+    "ingredient_code": "201501ACH",
+    "age_limit": "1",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "Nitrofuran계 항생제는 글루타티온 환원효소 억제로 인한 용혈성 빈혈 위험이 있음",
+    "product_count": 5,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lidocaine, prilocaine",
+    "ingredient_code": "537400CCM",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "흡수에 대한 자료가 불완전하므로 소아의 생식기 점막에는 적용하지 말 것. 메트헤모글로빈의 일시적 증가 보고",
+    "product_count": 5,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "phentermine hydrochloride (as phentermine)",
+    "ingredient_code": "552704ATB",
+    "age_limit": "16",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 5,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sildenafil",
+    "ingredient_code": "618301ATD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 5,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "brimonidine tartrate",
+    "ingredient_code": "118432COS",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 시판 후 조사에서 이 약을 투여 받은 영아에서 무호흡, 서맥, 혼수, 저혈압, 저체온, 근육긴장저하, 기면, 창백, 호흡억제, 졸음이 보고됨",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135842COM",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dioctahedral smectite",
+    "ingredient_code": "146431ASS",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "doxazosin mesylate (as doxazocin)",
+    "ingredient_code": "149102ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl",
+    "ingredient_code": "158209CPC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 미확립. 일부 소아에서 중증 호흡억제 발생",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl",
+    "ingredient_code": "158210CPC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 미확립. 일부 소아에서 중증 호흡억제 발생",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl",
+    "ingredient_code": "158211CPC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 미확립. 일부 소아에서 중증 호흡억제 발생",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mirtazapine",
+    "ingredient_code": "196204ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음. 소아(7~17세) 임상시험에서 7% 이상 체중이 증가된 환자 비율이 위약군보다 높음.",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ofloxacin",
+    "ingredient_code": "203904ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립. 몇몇 어린 동물종에서 관절이상을 유발함",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "polystyrene sulfonate calcium",
+    "ingredient_code": "215402APD",
+    "age_limit": "1",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "chlorpheniramine maleate, dihydrocodeine tartrate, guaifenesin, DL-methylephedrine hydrochloride",
+    "ingredient_code": "268000ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "12세 미만 소아는 호흡억제 감수성이 큼. 12세 미만 소아에서 사망을 포함하는 중증 호흡억제 위험이 크다는 국외 보고 있음.",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "codeine phosphate, ibuprofen, paracetamol",
+    "ingredient_code": "313400ACH",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "코데인이 모르핀으로 대사되는 과정이 다양하고 예측 불가능하여 모르핀으로 인한 독성이 나타날 위험이 있음",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361332CCM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "amisulpride",
+    "ingredient_code": "420002ATB",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "amisulpride",
+    "ingredient_code": "420003ATB",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "hydroxocobalamin",
+    "ingredient_code": "171531BIJ",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "벤질알코올은 조숙아에서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고됨",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179909CPO",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lidocaine, prilocaine",
+    "ingredient_code": "537500CCM",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "흡수에 대한 자료가 불완전하므로 소아의 생식기 점막에는 적용하지 말 것. 메트헤모글로빈의 일시적 증가 보고",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lidocaine, prilocaine",
+    "ingredient_code": "661300CCM",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "흡수에 대한 자료가 불완전하므로 소아의 생식기 점막에는 적용하지 말 것. 메트헤모글로빈의 일시적 증가 보고",
+    "product_count": 4,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "L-carbocysteine",
+    "ingredient_code": "123840ASY",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "Mucolytics는 2세 미만에서 호흡기 장애 유발 가능",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135844CCM",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "diazepam",
+    "ingredient_code": "142902ATB",
+    "age_limit": "6",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 유효성 미확립",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "diazepam",
+    "ingredient_code": "142903ATB",
+    "age_limit": "6",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 유효성 미확립",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "diclofenac sodium",
+    "ingredient_code": "143534BIJ",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "벤질알코올은 조숙아에서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고됨",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dioctahedral smectite",
+    "ingredient_code": "146432ASS",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "doxycycline hydrate",
+    "ingredient_code": "149501ACH",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 8세 이상 신중투여, 다만 다른 약을 사용할 수 없거나 효과가 없는 경우에만3. 소아 등(특히 치아 형성기인 12세 미만의 소아)에 투여 시, 치아의 착색 및 법량질 형성 부전 또는 일괄성 골발육 부전을 일으킬 수 있음",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl",
+    "ingredient_code": "158213CPC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 미확립. 일부 소아에서 중증 호흡억제 발생",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158334BIJ",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 조산아에 펜타닐, 판쿠로늄, 아트로핀이 포함된 응급마취 및 수술 시 메트헤모글로빈혈증이 드물게 보고됨",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179731BIJ",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 벤질알코올은 조숙아에서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고됨",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179901CPO",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lomefloxacin hydrochloride",
+    "ingredient_code": "184903ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립. 몇몇 어린 동물종을 이용한 동물실험결과 관절이상이 보고됨",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lovastatin",
+    "ingredient_code": "185801ATB",
+    "age_limit": "20",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "metoclopramide hydrochloride",
+    "ingredient_code": "193730BIJ",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "추체외로장애 위험성 증가",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "propofol",
+    "ingredient_code": "219831BIJ",
+    "age_limit": "36",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아에게 마취 목적으로 투여 시 심장-호흡기계 억제 보고 후두염 및 후두개염으로 진단된 소아에게 진정 목적으로 이약을 장기간(3~5일) 투여 시 사망 보고",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "propofol",
+    "ingredient_code": "219838BIJ",
+    "age_limit": "36",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아에게 마취 목적으로 투여 시 심장-호흡기계 억제 보고 후두염 및 후두개염으로 진단된 소아에게 진정 목적으로 이약을 장기간(3~5일) 투여 시 사망 보고",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tramadol hydrochloride",
+    "ingredient_code": "242305ACH",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "zolpidem tartrate",
+    "ingredient_code": "250502ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 현기증, 두통, 환각을 포함한 정신 신경계 이상반응이 위약군에 비해 흔하게 나타남",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tacrolimus hydrate (as tacrolimus)",
+    "ingredient_code": "426332COM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tacrolimus hydrate (as tacrolimus)",
+    "ingredient_code": "426333COM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levocetirizine dihydrochloride",
+    "ingredient_code": "463633ALQ",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "(액제) 1세 미만의 영아에 대한 사용 경험이 적어 투여하지 않음. 1세 이상 6세 미만의 소아에 대한 임상시험 결과, 가장 흔하게 나타난 이상반응은 발열, 설사, 구토, 중이염이었음.",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "teriparatide",
+    "ingredient_code": "487502BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 일반적으로 골육종 발현 위험이 높을 수 있음",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "atomoxetine hydrochloride (as atomoxetine)",
+    "ingredient_code": "489601ACH",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "atomoxetine hydrochloride (as atomoxetine)",
+    "ingredient_code": "489602ACH",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "atomoxetine hydrochloride (as atomoxetine)",
+    "ingredient_code": "489603ACH",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "atomoxetine hydrochloride (as atomoxetine)",
+    "ingredient_code": "489604ACH",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "atomoxetine hydrochloride (as atomoxetine)",
+    "ingredient_code": "489605ACH",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "atomoxetine hydrochloride (as atomoxetine)",
+    "ingredient_code": "489606ACH",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "olodaterol hydrochloride (as olodaterol), tiotropium bromide monohydrate",
+    "ingredient_code": "643700CSI",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "desvenlafaxine benzoate (as desvenlafaxine)",
+    "ingredient_code": "687601ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음.",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "desvenlafaxine benzoate (as desvenlafaxine)",
+    "ingredient_code": "687602ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음.",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tadalafil",
+    "ingredient_code": "560701ATD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lidocaine, prilocaine",
+    "ingredient_code": "661100CCM",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "흡수에 대한 자료가 불완전하므로 소아의 생식기 점막에는 적용하지 말 것. 메트헤모글로빈의 일시적 증가 보고",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cholecalciferol concentrated powder (as vitamin D3)",
+    "ingredient_code": "D07901ATB",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 3,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "acamprosate",
+    "ingredient_code": "100501ATE",
+    "age_limit": "65",
+    "age_unit": "세 (3)",
+    "age_condition": "이상 (4)",
+    "detail": "65세 이상에서 안전성 및 유효성 미확립. 연령이 높아질수록 신장기능이 저하되어 이 약이 축적될 수 있음.",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "benztropine mesylate",
+    "ingredient_code": "116001ATB",
+    "age_limit": "3",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "생명을 위협하는 경우를 제외하고는 3세 미만 소아에 사용하지 말 것",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "benztropine mesylate",
+    "ingredient_code": "116002ATB",
+    "age_limit": "3",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "생명을 위협하는 경우를 제외하고는 3세 미만 소아에 사용하지 말 것",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "brimonidine tartrate",
+    "ingredient_code": "118434COS",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 시판 후 조사에서 이 약을 투여 받은 영아에서 무호흡, 서맥, 혼수, 저혈압, 저체온, 근육긴장저하, 기면, 창백, 호흡억제, 졸음이 보고됨",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "L-carbocysteine",
+    "ingredient_code": "123804ACH",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "Mucolytics는 2세 미만에서 호흡기 장애 유발 가능",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "L-carbocysteine",
+    "ingredient_code": "123841ASY",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "Mucolytics는 2세 미만에서 호흡기 장애 유발 가능",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "L-carbocysteine",
+    "ingredient_code": "123843ASY",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "Mucolytics는 2세 미만에서 호흡기 장애 유발 가능",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "L-carbocysteine",
+    "ingredient_code": "123844ASY",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "Mucolytics는 2세 미만에서 호흡기 장애 유발 가능",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "chlorpromazine hydrochloride",
+    "ingredient_code": "131901ATB",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "추체외로증상 특히 운동장애가 나타나기 쉬움",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135831COM",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135835CLQ",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135839CLT",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "diazepam",
+    "ingredient_code": "142930BIJ",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "(벤질알코올 함유 제품에 한함) 벤질알코올은 조숙아에서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고됨",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "diclofenac sodium",
+    "ingredient_code": "143535BIJ",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "벤질알코올은 조숙아에서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고됨",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate(micronized) (as fentanyl)",
+    "ingredient_code": "158305ATL",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate(micronized) (as fentanyl)",
+    "ingredient_code": "158321ATL",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate(micronized) (as fentanyl)",
+    "ingredient_code": "158322ATL",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levofloxacin hydrate",
+    "ingredient_code": "183205ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 안전성 및 유효성 미확립, 퀴놀론계 항균제는 몇몇 어린 동물종에서 관절병증, 뻐연골증을 유발",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lidocaine",
+    "ingredient_code": "183805CCM",
+    "age_limit": "4",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "methylphenidate hydrochloride",
+    "ingredient_code": "193201ATB",
+    "age_limit": "5",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "methylphenidate hydrochloride",
+    "ingredient_code": "193202ATB",
+    "age_limit": "5",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "minocycline hydrochloride",
+    "ingredient_code": "195903ACH",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "(8세이상 신중투여, 다만 다른약을 사용할 수 없거나 효과가 없는 경우에만) 소아 등 (특히 치아 형성기인 12세 미만의 소아)에 투여 시, 치아의 착색·법랑질 형성 부전, 또는 일과성 골발육 부전을 일으킬 수 있음",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mirtazapine",
+    "ingredient_code": "196204ATD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음. 소아(7~17세) 임상시험에서 7% 이상 체중이 증가된 환자 비율이 위약군보다 높음.",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "olanzapine",
+    "ingredient_code": "204001ATD",
+    "age_limit": "13",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 체중증가, 진정, 총콜레스테롤, 중성지방, LDL콜레스테롤, 프로락틴과 간 아미노트랜스퍼라제 수치가 성인에 비해 증가",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "olanzapine",
+    "ingredient_code": "204002ATD",
+    "age_limit": "13",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 체중증가, 진정, 총콜레스테롤, 중성지방, LDL콜레스테롤, 프로락틴과 간 아미노트랜스퍼라제 수치가 성인에 비해 증가",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "propofol",
+    "ingredient_code": "219832BIJ",
+    "age_limit": "36",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아에게 마취 목적으로 투여 시 심장-호흡기계 억제 보고 후두염 및 후두개염으로 진단된 소아에게 진정 목적으로 이약을 장기간(3~5일) 투여 시 사망 보고",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ritodrine hydrochloride",
+    "ingredient_code": "224330BIJ",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "silver sulfadiazine",
+    "ingredient_code": "227430CCM",
+    "age_limit": "2",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성이 미확립. 미숙아, 신생아(생후 2개월이내)는 핵황달을 일으킬 가능성 증가",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "silver sulfadiazine",
+    "ingredient_code": "227431CCM",
+    "age_limit": "2",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성이 미확립. 미숙아, 신생아(생후 2개월이내)는 핵황달을 일으킬 가능성 증가",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "silver sulfadiazine",
+    "ingredient_code": "227432CCM",
+    "age_limit": "2",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성이 미확립. 미숙아, 신생아(생후 2개월이내)는 핵황달을 일으킬 가능성 증가",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "triazolam",
+    "ingredient_code": "243501ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "triazolam",
+    "ingredient_code": "243502ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "caffeine anhydrous, chlorpheniramine maleate, dihydrocodeine tartrate, DL-methylephedrine hydrochloride",
+    "ingredient_code": "267400ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "12세 미만 소아는 호흡억제 감수성이 큼. 12세 미만 소아에서 사망을 포함하는 중증 호흡억제 위험이 크다는 국외 보고 있음.",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sulfamethoxazole, trimethoprim",
+    "ingredient_code": "311500ATB",
+    "age_limit": "2",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "고빌리루빈혈증을 일으킬 수 있음",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "oxycodone hydrochloride",
+    "ingredient_code": "359001ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "oxycodone hydrochloride",
+    "ingredient_code": "359002ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "oxycodone hydrochloride",
+    "ingredient_code": "359002ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "oxycodone hydrochloride",
+    "ingredient_code": "359003ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "oxycodone hydrochloride",
+    "ingredient_code": "359004ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "oxycodone hydrochloride (as oxycodone)",
+    "ingredient_code": "359030BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "oxycodone hydrochloride (as oxycodone)",
+    "ingredient_code": "359031BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361308CSI",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 환자에게 비강 코르티코스테로이드의 투여에 대한 임상시험에서 성장속도가 감소될 수 있다는 결과 나타남. 2세 미만에서 안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361336CCM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361350CLT",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "repaglinide",
+    "ingredient_code": "379502ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "repaglinide",
+    "ingredient_code": "379503ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "amisulpride",
+    "ingredient_code": "420004ATB",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tacrolimus hydrate (as tacrolimus)",
+    "ingredient_code": "426330COM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tacrolimus hydrate (as tacrolimus)",
+    "ingredient_code": "426331COM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tigecycline",
+    "ingredient_code": "495301BIJ",
+    "age_limit": "8",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "치아발달기의 환자(임신 후반기, 영아 및 8세 이하의 소아)에게 이 약을 사용할 경우 영구적인 치아 변색을 유발할 수 있음",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "DL-methylephedrine hydrochloride, chlorpheniramine maleate, dihydrocodeine tartrate, guaifenesin",
+    "ingredient_code": "532700ASY",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "12세 미만 소아는 호흡억제 감수성이 큼. 12세 미만 소아에서 사망을 포함하는 중증 호흡억제 위험이 크다는 국외 보고 있음.",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dexamethasone, neomycin sulfate, polymixin B sulfate",
+    "ingredient_code": "539800COO",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 코르티코스테로이드 유발성 고안압증 위험이 더 높을 수 있고 성인보다 더 일찍 발생할 수 있음.",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dexamethasone, neomycin sulfate, polymixin B sulfate",
+    "ingredient_code": "539900COO",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 코르티코스테로이드 유발성 고안압증 위험이 더 높을 수 있고 성인보다 더 일찍 발생할 수 있음.",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "brimonidine tartrate, timolol maleate (as timolol)",
+    "ingredient_code": "540900COS",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 시판 후 조사에서 이 약을 투여 받은 신생아에서 무호흡, 서맥, 저혈압, 체온저하, 혼수상태, 졸음, 근긴장저하, 무기력, 창백, 호흡저하가 보고됨",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "vortioxetine hydrobromide (as vortioxetine)",
+    "ingredient_code": "628501ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에 대한 안전성 및 유효성이 확립되지 않았으므로, 소아에게 이 약을 투여하는 것은 권장되지 않음.",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "vortioxetine hydrobromide (as vortioxetine)",
+    "ingredient_code": "628502ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에 대한 안전성 및 유효성이 확립되지 않았으므로, 소아에게 이 약을 투여하는 것은 권장되지 않음.",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "vortioxetine hydrobromide (as vortioxetine)",
+    "ingredient_code": "628504ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에 대한 안전성 및 유효성이 확립되지 않았으므로, 소아에게 이 약을 투여하는 것은 권장되지 않음.",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "teriparatide acetate (as teriparatide)",
+    "ingredient_code": "646301BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 일반적으로 골육종 발현 위험이 높을 수 있음",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ammonium chloride,chlorpheniramine maleate,dihydrocodeine tartrate,DL-methylephedrine hydrochloride",
+    "ingredient_code": "677200ASY",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "12세 미만 소아는 호흡억제 감수성이 큼. 12세 미만 소아에서 사망을 포함하는 중증 호흡억제 위험이 크다는 국외 보고 있음.",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "Ammonium chloride, Chlorpheniramine, Dihydrocodeine, Methylephedrine, Pelargonium sidoides extract",
+    "ingredient_code": "690300ASY",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "중증 호흡억제가 나타날 수 있음, 12세 미만 소아에서 사망을 포함하는 중증 호흡억제 위험이 크다는 국외 보고 있음",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "brimonidine tartrate, timolol maleate (as timolol)",
+    "ingredient_code": "800200COS",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 시판 후 조사에서 이 약을 투여 받은 신생아에서 무호흡, 서맥, 저혈압, 체온저하, 혼수상태, 졸음, 근긴장저하, 무기력, 창백, 호흡저하가 보고됨",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "milk thistle fruit ext.",
+    "ingredient_code": "123901ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cetirizine dihydrochloride",
+    "ingredient_code": "130507ALQ",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179706CPL",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179739CCM",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen(f.)",
+    "ingredient_code": "179904CPL",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179904CPO",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179914CPO",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "taurolidine",
+    "ingredient_code": "234702BIJ",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "xylometazoline hydrochloride",
+    "ingredient_code": "249604CSI",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "xylometazoline hydrochloride",
+    "ingredient_code": "249605CSI",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "phendimetrazine tartrate",
+    "ingredient_code": "552602ATB",
+    "age_limit": "16",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sildenafil citrate(as sildenafil)",
+    "ingredient_code": "553302ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "다만, 발기부전치료에 한함",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sildenafil",
+    "ingredient_code": "618301APD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "다만, 발기부전치료에 한함",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sildenafil",
+    "ingredient_code": "618302ATD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "Racecadotril",
+    "ingredient_code": "632402ACH",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "permethrin",
+    "ingredient_code": "648802CCM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "2개월 미만에서 안전성 및 유효성 미확립. 2~23개월 사이의 어린이에서 사용 경험 제한적임. 긴밀한 의료감독 하에 치료 받아야 함",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "bupropion hydrochloride, naltrexone hydrochloride",
+    "ingredient_code": "651600ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "고령자에서 이 약의 중추신경계 이상반응에 대한 민감성이 더 크게 나타날 수 있음. 이 약은 대체로 신장에서 배설된다고 알려져 있으므로, 신기능이 감소되어 있을 가능성이 큰 고령의 환자는 이상반응의 위험성이 더 클 수 있음.",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "chlorhexidine gluconate solution, lidocaine hydrochloride",
+    "ingredient_code": "660000CCM",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "chlorhexidine gluconate solution, lidocaine hydrochloride",
+    "ingredient_code": "660100CCM",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cholecalciferol concentrated powder (as vitamin D3)",
+    "ingredient_code": "D07903ATB",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 2,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "acarbose",
+    "ingredient_code": "100601ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "acarbose",
+    "ingredient_code": "100602ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "acetaminophen(encapsulated)",
+    "ingredient_code": "101404ATR",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 고령자(노인)는 최소 필요량을 복용하고 이상반응에 유의. 과도한 체온강하, 허탈, 사지냉각 등이 나타날 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "atropine sulfate",
+    "ingredient_code": "111833COS",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "심각한 전신 부작용 위험이 있음. 조산아, 영아, 다운증후군, 강직마비 또는 뇌손상 어린이는 이 약의 전신흡수에 따른 중추신경계 장애, 심폐 및 위장관 독성에 감수성이 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "benzonatate",
+    "ingredient_code": "115801ACS",
+    "age_limit": "10",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "bicalutamide",
+    "ingredient_code": "117202ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "brimonidine tartrate",
+    "ingredient_code": "118435COS",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 시판 후 조사에서 이 약을 투여 받은 영아에서 무호흡, 서맥, 혼수, 저혈압, 저체온, 근육긴장저하, 기면, 창백, 호흡억제, 졸음이 보고됨",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "butorphanol tartrate",
+    "ingredient_code": "121130BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "butorphanol tartrate",
+    "ingredient_code": "121131BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "L-carbocysteine",
+    "ingredient_code": "123801ACH",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "Mucolytics는 2세 미만에서 호흡기 장애 유발 가능",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "milk thistle fruit ext. powder",
+    "ingredient_code": "124001ACH",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "milk thistle fruit ext. powder",
+    "ingredient_code": "124002ACH",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "chlorpromazine hydrochloride",
+    "ingredient_code": "131905ATB",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "추체외로증상 특히 운동장애가 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "chlorpromazine hydrochloride",
+    "ingredient_code": "131908ATB",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "추체외로증상 특히 운동장애가 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clemastine fumarate (as clemastine)",
+    "ingredient_code": "135201ATB",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "진정 또는 수면 무호흡증, 경련, 흥분 등 중추신경증상을 일으킬 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135831CCM",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135833CLQ",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135834CLQ",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135836CLQ",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135838CLQ",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135842CCM",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135844COM",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135845COM",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cyclobenzaprine hydrochloride",
+    "ingredient_code": "138701ATB",
+    "age_limit": "65",
+    "age_unit": "세 (3)",
+    "age_condition": "이상 (4)",
+    "detail": "고령자에서는 성인에 비해 혈장 약물 농도 및 반감기가 상승함.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cyclobenzaprine hydrochloride",
+    "ingredient_code": "138702ACR",
+    "age_limit": "65",
+    "age_unit": "세 (3)",
+    "age_condition": "이상 (4)",
+    "detail": "고령자에서는 성인에 비해 혈장 약물 농도 및 반감기가 상승함.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cyclopentolate hydrochloride",
+    "ingredient_code": "138931COS",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "영아, 유아, 경련성 마비 또는 뇌손상이 있는 소아에서 이 약의 감수성 증가가 보고됨. 신생아에 투여 시 음식섭취 과민증(feeding intolerance)이 뒤따를 수 있으므로 투여 후 4시간 동안 음식섭취 억제 필요",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cyclopentolate hydrochloride",
+    "ingredient_code": "138933COS",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "영아, 유아, 경련성 마비 또는 뇌손상이 있는 소아에서 이 약의 감수성 증가가 보고됨. 신생아에 투여 시 음식섭취 과민증(feeding intolerance)이 뒤따를 수 있으므로 투여 후 4시간 동안 음식섭취 억제 필요",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "diazepam",
+    "ingredient_code": "142901ATB",
+    "age_limit": "6",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "diclofenac-β-dimethyl-aminoethanol",
+    "ingredient_code": "143630BIJ",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "벤질알코올은 조숙아에서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고됨",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dihydrocodeine tartrate",
+    "ingredient_code": "144901ATR",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "코데인이 모르핀으로 대사되는 과정이 다양하고 예측불가능하여 모르핀으로 인한 독성이 나타날 위험이 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dioctahedral smectite",
+    "ingredient_code": "146430ASS",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "disodium etidronate",
+    "ingredient_code": "147401ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 소아에 투여 시 골 성장에 영향을 미칠 가능성이 있고 장기 투여에 의해 구루병양 증상이 일어난다는 보고가 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "doxycycline hydrate",
+    "ingredient_code": "149502ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 8세 이상 신중투여, 다만 다른 약을 사용할 수 없거나 효과가 없는 경우에만3. 소아 등(특히 치아 형성기인 12세 미만의 소아)에 투여 시, 치아의 착색 및 법량질 형성 부전 또는 일괄성 골발육 부전을 일으킬 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "doxycycline hyclate hydrate",
+    "ingredient_code": "149701ACH",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 8세 이상 신중투여, 다만 다른 약을 사용할 수 없거나 효과가 없는 경우에만3. 소아 등(특히 치아 형성기인 12세 미만의 소아)에 투여 시, 치아의 착색 및 법량질 형성 부전 또는 일괄성 골발육 부전을 일으킬 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "doxycycline hyclate hydrate",
+    "ingredient_code": "149701ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 8세 이상 신중투여, 다만 다른 약을 사용할 수 없거나 효과가 없는 경우에만3. 소아 등(특히 치아 형성기인 12세 미만의 소아)에 투여 시, 치아의 착색 및 법량질 형성 부전 또는 일괄성 골발육 부전을 일으킬 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "doxycycline hyclate hydrate (as doxycycline)",
+    "ingredient_code": "149702ACH",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 8세 이상 신중투여, 다만 다른 약을 사용할 수 없거나 효과가 없는 경우에만3. 소아 등(특히 치아 형성기인 12세 미만의 소아)에 투여 시, 치아의 착색 및 법량질 형성 부전 또는 일괄성 골발육 부전을 일으킬 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "etomidate",
+    "ingredient_code": "157030BIJ",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl",
+    "ingredient_code": "158216CPC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 미확립. 일부 소아에서 중증 호흡억제 발생",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158305ATC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "적절한 투여 용량 및 안전성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158306ATC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "적절한 투여 용량 및 안전성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate(micronized) (as fentanyl)",
+    "ingredient_code": "158306ATL",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158307ATC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "적절한 투여 용량 및 안전성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158308ATC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "적절한 투여 용량 및 안전성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158313ATC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "적절한 투여 용량 및 안전성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158314ATC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "적절한 투여 용량 및 안전성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158314ATL",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158315ATC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "적절한 투여 용량 및 안전성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158316ATC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "적절한 투여 용량 및 안전성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158317ATC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "적절한 투여 용량 및 안전성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158336ATL",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158337ATL",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158338ATL",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "flurazepam hydrochloride",
+    "ingredient_code": "161801ATB",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fluticasone propionate",
+    "ingredient_code": "162234CCM",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애 등이 나타나기 쉬우며, 치료 중 또는 치료중단 후 부신부전이 나타날 위험이 높음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179732COM",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179733COM",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179734COM",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179735CCM",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179736CCM",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketorolac tromethamine",
+    "ingredient_code": "180001ATB",
+    "age_limit": "16",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lomefloxacin hydrochloride",
+    "ingredient_code": "184901ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립. 몇몇 어린 동물종을 이용한 동물실험결과 관절이상이 보고됨",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lomefloxacin hydrochloride",
+    "ingredient_code": "184904ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립. 몇몇 어린 동물종을 이용한 동물실험결과 관절이상이 보고됨",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "loratadine",
+    "ingredient_code": "185430ASY",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lorazepam",
+    "ingredient_code": "185530BIJ",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "벤질알코올은 조숙아에서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고됨",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lorazepam",
+    "ingredient_code": "185531BIJ",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "벤질알코올은 조숙아에서 치명적인 가쁜 호흡증상과 연관이 있는 것으로 보고됨",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "meloxicam",
+    "ingredient_code": "189701ATB",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "meloxicam",
+    "ingredient_code": "189701ATD",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mequitazine",
+    "ingredient_code": "190502ATB",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "2세 이하 영아에 투여하지 말 것. 다른 페노치아진계 약물을 소아(특히 2세 이하)에 투여한 경우 유아돌연사망증후군(SIDS) 및 유아 수면시 무호흡발작이 나타났다는 보고 있음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mequitazine",
+    "ingredient_code": "190532ASY",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "2세 이하 영아에 투여하지 말 것. 다른 페노치아진계 약물을 소아(특히 2세 이하)에 투여한 경우 유아돌연사망증후군(SIDS) 및 유아 수면시 무호흡발작이 나타났다는 보고 있음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mesalazine",
+    "ingredient_code": "190802AGR",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mesalazine",
+    "ingredient_code": "190802ATR",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mesalazine",
+    "ingredient_code": "190802CSP",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mesalazine",
+    "ingredient_code": "190803ATR",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mesalazine",
+    "ingredient_code": "190803CSP",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mesalazine",
+    "ingredient_code": "190806AGR",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mesalazine",
+    "ingredient_code": "190808ATR",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mesalazine",
+    "ingredient_code": "190811ATR",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mesalazine",
+    "ingredient_code": "190812ATR",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mesalazine",
+    "ingredient_code": "190832CLQ",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "methylphenidate hydrochloride",
+    "ingredient_code": "193201ACR",
+    "age_limit": "5",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "methylphenidate hydrochloride",
+    "ingredient_code": "193202ACR",
+    "age_limit": "5",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "methylphenidate hydrochloride",
+    "ingredient_code": "193203ATR",
+    "age_limit": "5",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "methylphenidate hydrochloride",
+    "ingredient_code": "193204ATR",
+    "age_limit": "5",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "methylphenidate hydrochloride",
+    "ingredient_code": "193205ACR",
+    "age_limit": "5",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "methylphenidate hydrochloride",
+    "ingredient_code": "193206ATR",
+    "age_limit": "5",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "methylphenidate hydrochloride",
+    "ingredient_code": "193207ACR",
+    "age_limit": "5",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "methylphenidate hydrochloride",
+    "ingredient_code": "193208ACR",
+    "age_limit": "5",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "methylphenidate hydrochloride",
+    "ingredient_code": "193209ATR",
+    "age_limit": "5",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "metoclopramide",
+    "ingredient_code": "193701ATB",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "추체외로장애 위험성 증가",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mirtazapine",
+    "ingredient_code": "196203ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음. 소아(7~17세) 임상시험에서 7% 이상 체중이 증가된 환자 비율이 위약군보다 높음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "morphine sulfate",
+    "ingredient_code": "197301ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "morphine sulfate",
+    "ingredient_code": "197302ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "nortryptiline hydrochloride (as nortryptiline)",
+    "ingredient_code": "203401ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "nortryptiline hydrochloride (as nortryptiline)",
+    "ingredient_code": "203402ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ofloxacin",
+    "ingredient_code": "203940BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립. 몇몇 어린 동물종에서 관절이상을 유발함",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "olanzapine",
+    "ingredient_code": "204005ATB",
+    "age_limit": "13",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 체중증가, 진정, 총콜레스테롤, 중성지방, LDL콜레스테롤, 프로락틴과 간 아미노트랜스퍼라제 수치가 성인에 비해 증가",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "perphenazine",
+    "ingredient_code": "211401ATB",
+    "age_limit": "14",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "추체외로증상 특히 운동장애가 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "piroxicam",
+    "ingredient_code": "214001ACH",
+    "age_limit": "80",
+    "age_unit": "세 (3)",
+    "age_condition": "이상 (4)",
+    "detail": "중증의 위장관계 이상반응을 일으킬 위험은 연령에 따라 증가함. 고령자는 중대한 위장관계 이상반응의 위험이 더 클 수 있음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "piroxicam",
+    "ingredient_code": "214001ATB",
+    "age_limit": "80",
+    "age_unit": "세 (3)",
+    "age_condition": "이상 (4)",
+    "detail": "중증의 위장관계 이상반응을 일으킬 위험은 연령에 따라 증가함. 고령자는 중대한 위장관계 이상반응의 위험이 더 클 수 있음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "piroxicam",
+    "ingredient_code": "214004ACH",
+    "age_limit": "80",
+    "age_unit": "세 (3)",
+    "age_condition": "이상 (4)",
+    "detail": "중증의 위장관계 이상반응을 일으킬 위험은 연령에 따라 증가함. 고령자는 중대한 위장관계 이상반응의 위험이 더 클 수 있음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "piroxicam",
+    "ingredient_code": "214004ATB",
+    "age_limit": "80",
+    "age_unit": "세 (3)",
+    "age_condition": "이상 (4)",
+    "detail": "중증의 위장관계 이상반응을 일으킬 위험은 연령에 따라 증가함. 고령자는 중대한 위장관계 이상반응의 위험이 더 클 수 있음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "piroxicam β-cyclodextrin (as piroxicam)",
+    "ingredient_code": "214202ATB",
+    "age_limit": "80",
+    "age_unit": "세 (3)",
+    "age_condition": "이상 (4)",
+    "detail": "중증의 위장관계 이상반응을 일으킬 위험은 연령에 따라 증가함. 고령자는 중대한 위장관계 이상반응의 위험이 더 클 수 있음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "polystyrene sulfonate calcium",
+    "ingredient_code": "215402ACM",
+    "age_limit": "1",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "polystyrene sulfonate calcium",
+    "ingredient_code": "215432ASS",
+    "age_limit": "1",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "propofol",
+    "ingredient_code": "219830BIJ",
+    "age_limit": "36",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아에게 마취 목적으로 투여 시 심장-호흡기계 억제 보고 후두염 및 후두개염으로 진단된 소아에게 진정 목적으로 이약을 장기간(3~5일) 투여 시 사망 보고",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "silver sulfadiazine",
+    "ingredient_code": "227433CCM",
+    "age_limit": "2",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성이 미확립. 미숙아, 신생아(생후 2개월이내)는 핵황달을 일으킬 가능성 증가",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sodium ferric gluconate complex (as Fe III)",
+    "ingredient_code": "228902ACH",
+    "age_limit": "12",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sulfasalazine",
+    "ingredient_code": "232801ATE",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립. 고빌리루빈혈증을 일으킬 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "terazosin hydrochloride (as terazosin)",
+    "ingredient_code": "235501ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "terazosin hydrochloride (as terazosin)",
+    "ingredient_code": "235503ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tetracycline hydrochloride",
+    "ingredient_code": "236701ACH",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "(8세이상 신중투여, 다만 다른약을 사용할 수 없거나 효과가 없는 경우에만) 소아 등 (특히 치아 형성기인 12세 미만의 소아)에 투여 시, 치아의 착색·법랑질 형성 부전, 또는 일과성 골발육 부전을 일으킬 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "topiramate",
+    "ingredient_code": "241801ACR",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "topiramate",
+    "ingredient_code": "241802ACR",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "topiramate",
+    "ingredient_code": "241803ACH",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "topiramate",
+    "ingredient_code": "241803ACR",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "topiramate",
+    "ingredient_code": "241804ACH",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "topiramate",
+    "ingredient_code": "241804ACR",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "topiramate",
+    "ingredient_code": "241804ATB",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tosufloxacin tosylate",
+    "ingredient_code": "242201ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tramadol hydrochloride",
+    "ingredient_code": "242301ATR",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tramadol hydrochloride",
+    "ingredient_code": "242302ATR",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tramadol hydrochloride",
+    "ingredient_code": "242304ATR",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tramadol hydrochloride",
+    "ingredient_code": "242305ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tramadol hydrochloride",
+    "ingredient_code": "242308ATR",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 생명에 치명적인 호흡 억제 및 사망 발생",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "verapamil hydrochloride",
+    "ingredient_code": "247603ATR",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아 및 영아는 칼슘채널 차단제의 감수성이 높고, 서맥, 심장마비 등을 일으킬 위험이 있음. 신생아 및 영아에게 이 약을 투여했을 때 심각한 서맥과 저혈압, 심장마비 등이 나타났다는 보고가 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "verapamil hydrochloride",
+    "ingredient_code": "247605ATR",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아 및 영아는 칼슘채널 차단제의 감수성이 높고, 서맥, 심장마비 등을 일으킬 위험이 있음. 신생아 및 영아에게 이 약을 투여했을 때 심각한 서맥과 저혈압, 심장마비 등이 나타났다는 보고가 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "verapamil hydrochloride",
+    "ingredient_code": "247606ATB",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아 및 영아는 칼슘채널 차단제의 감수성이 높고, 서맥, 심장마비 등을 일으킬 위험이 있음. 신생아 및 영아에게 이 약을 투여했을 때 심각한 서맥과 저혈압, 심장마비 등이 나타났다는 보고가 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "verapamil hydrochloride",
+    "ingredient_code": "247607ATB",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아 및 영아는 칼슘채널 차단제의 감수성이 높고, 서맥, 심장마비 등을 일으킬 위험이 있음. 신생아 및 영아에게 이 약을 투여했을 때 심각한 서맥과 저혈압, 심장마비 등이 나타났다는 보고가 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "verapamil hydrochloride",
+    "ingredient_code": "247630BIJ",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아 및 영아는 칼슘채널 차단제의 감수성이 높고, 서맥, 심장마비 등을 일으킬 위험이 있음. 신생아 및 영아에게 이 약을 투여했을 때 심각한 서맥과 저혈압, 심장마비 등이 나타났다는 보고가 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "zolpidem tartrate",
+    "ingredient_code": "250503ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 현기증, 두통, 환각을 포함한 정신 신경계 이상반응이 위약군에 비해 흔하게 나타남",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "zolpidem tartrate",
+    "ingredient_code": "250504ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 현기증, 두통, 환각을 포함한 정신 신경계 이상반응이 위약군에 비해 흔하게 나타남",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "benserazide hydrochloride (as benserazide), levodopa",
+    "ingredient_code": "256000ACR",
+    "age_limit": "25",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 동물실험에서 벤세라지드에 의해 골격기형이 나타남",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "benserazide hydrochloride (as benserazide), levodopa",
+    "ingredient_code": "256000ATB",
+    "age_limit": "25",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 동물실험에서 벤세라지드에 의해 골격기형이 나타남",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "benserazide hydrochloride (as benserazide), levodopa",
+    "ingredient_code": "256000ATD",
+    "age_limit": "25",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 동물실험에서 벤세라지드에 의해 골격기형이 나타남",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "benserazide hydrochloride (as benserazide), levodopa",
+    "ingredient_code": "256200ATB",
+    "age_limit": "25",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 동물실험에서 벤세라지드에 의해 골격기형이 나타남",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "pyrimethamine, sulfadoxine",
+    "ingredient_code": "312100ATB",
+    "age_limit": "2",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "글루쿠로니드 형성 효소체계가 확립되어 있지 않은 2개월 미만의 영아에게는 투여하지 말 것",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sulfamethoxazole, trimethoprim",
+    "ingredient_code": "330000BIJ",
+    "age_limit": "2",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "고빌리루빈혈증을 일으킬 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "milnacipran hydrochloride",
+    "ingredient_code": "355801ACH",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "milnacipran hydrochloride",
+    "ingredient_code": "355802ACH",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "milnacipran hydrochloride",
+    "ingredient_code": "355803ACH",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "oxycodone hydrochloride",
+    "ingredient_code": "359003ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "oxycodone hydrochloride",
+    "ingredient_code": "359007ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361330CCM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361334COM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361335CLT",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361340CLT",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361344CLT",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361346COM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361347COM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361349CSI",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 환자에게 비강 코르티코스테로이드의 투여에 대한 임상시험에서 성장속도가 감소될 수 있다는 결과 나타남. 2세 미만에서 안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361351CLT",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "repaglinide",
+    "ingredient_code": "379501ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "moxifloxacin hydrochloride (as moxifloxacin)",
+    "ingredient_code": "380335BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "6β-iodomethyl-19-norcholest-5(10)-en-3β-ol(I-131)",
+    "ingredient_code": "428201BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 18세 미만의 환자에는 성선(性腺), 특히 난소에의 피폭이 많으므로 투여하지 않는 것이 원칙임",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "balofloxacin",
+    "ingredient_code": "428901ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 다른 퀴놀론계 항균제는 몇몇 어린 동물종에서 관절병증, 뼈연골증을 유발함",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "gemifloxacin mesylate (as gemifloxacin)",
+    "ingredient_code": "442901ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립. 퀴놀론계 항균제는 몇몇 어린 동물종에서 관절병증, 뼈연골증을 유발",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "gemifloxacin mesylate (as gemifloxacin)",
+    "ingredient_code": "442902BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립. 퀴놀론계 항균제는 몇몇 어린 동물종에서 관절병증, 뼈연골증을 유발",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "pimecrolimus",
+    "ingredient_code": "446430CCM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 영아의 면역기계 발달에 미치는 영향은 알려지지 않았음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "pimecrolimus",
+    "ingredient_code": "446431CCM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 영아의 면역기계 발달에 미치는 영향은 알려지지 않았음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dexketoprofen trometamol (as dexketoprofen)",
+    "ingredient_code": "454330BIJ",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "atazanavir sulfate (as atazanavir)",
+    "ingredient_code": "458503ACH",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "핵황달의 위험 나타날 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levocetirizine dihydrochloride",
+    "ingredient_code": "463631ALQ",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "(액제) 1세 미만의 영아에 대한 사용 경험이 적어 투여하지 않음. 1세 이상 6세 미만의 소아에 대한 임상시험 결과, 가장 흔하게 나타난 이상반응은 발열, 설사, 구토, 중이염이었음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levocetirizine dihydrochloride",
+    "ingredient_code": "463635ALQ",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "(액제) 1세 미만의 영아에 대한 사용 경험이 적어 투여하지 않음. 1세 이상 6세 미만의 소아에 대한 임상시험 결과, 가장 흔하게 나타난 이상반응은 발열, 설사, 구토, 중이염이었음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "caffeine anhydrous + chlorpheniramine + dihydrocodeine + DL-methylephedrine",
+    "ingredient_code": "493200ATB",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "12세 미만 소아는 호흡억제 감수성이 큼. 12세 미만 소아에서 사망을 포함하는 중증 호흡억제 위험이 크다는 국외 보고 있음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "duloxetine hydrochloride (as duloxetine)",
+    "ingredient_code": "495501ATE",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 18세 미만의 청소년의 주요우울장애의 치료에는 사용해서는 안됨.만 7세에서 17세까지의 주요우울장애 환자에서 플루옥세틴 군보다 이상사례(주로 오심)로 인한 중단 및 자살행동 높음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "duloxetine hydrochloride (as duloxetine)",
+    "ingredient_code": "495502ATE",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 18세 미만의 청소년의 주요우울장애의 치료에는 사용해서는 안됨.만 7세에서 17세까지의 주요우울장애 환자에서 플루옥세틴 군보다 이상사례(주로 오심)로 인한 중단 및 자살행동 높음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "darunavir ethanolate (as darunavir)",
+    "ingredient_code": "498702ATB",
+    "age_limit": "3",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "darunavir ethanolate (as darunavir)",
+    "ingredient_code": "498703ATB",
+    "age_limit": "3",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "telbivudine",
+    "ingredient_code": "506001ATB",
+    "age_limit": "16",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "Rifampicin, Isoniazid, Pyrazinamide, Ethambutol",
+    "ingredient_code": "519500ATB",
+    "age_limit": "8",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "흡인 위험과 Ethambutol로 인한 시력 변화 평가가 어려울 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "chlorpheniramine maleate, DL-methylephedrine hydrochloride, dihydrocodeine tartrate, guaifenesin",
+    "ingredient_code": "532800ASY",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "12세 미만 소아는 호흡억제 감수성이 큼. 12세 미만 소아에서 사망을 포함하는 중증 호흡억제 위험이 크다는 국외 보고 있음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dexamethasone, neomycin sulfate, polymixin B sulfate",
+    "ingredient_code": "540100COS",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 코르티코스테로이드 유발성 고안압증 위험이 더 높을 수 있고 성인보다 더 일찍 발생할 수 있음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dexamethasone, neomycin sulfate, polymixin B sulfate",
+    "ingredient_code": "540200COS",
+    "age_limit": "4",
+    "age_unit": "주 (1)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에서 코르티코스테로이드 유발성 고안압증 위험이 더 높을 수 있고 성인보다 더 일찍 발생할 수 있음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dibasic sodium phosphate, monobasic sodium phosphate",
+    "ingredient_code": "544700CLQ",
+    "age_limit": "3",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "신장 및 심장에 심각한 손상 가능성 보고(FDA 안전성 정보 (FDA Drug Safety Communication)(‘14.1.8) )",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dibasic sodium phosphate, monobasic sodium phosphate",
+    "ingredient_code": "544900CLQ",
+    "age_limit": "3",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "신장 및 심장에 심각한 손상 가능성 보고(FDA 안전성 정보 (FDA Drug Safety Communication)(‘14.1.8) )",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "pazopanib hydrochloride (as pazopanib)",
+    "ingredient_code": "611801ATB",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 생후 초기 발달 동안 기관 성장 및 성숙에 중대한 영향을 미침",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "pazopanib hydrochloride (as pazopanib)",
+    "ingredient_code": "611802ATB",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 생후 초기 발달 동안 기관 성장 및 성숙에 중대한 영향을 미침",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "desvenlafaxine succinate monohydrate (as desvenlafaxine)",
+    "ingredient_code": "626401ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "desvenlafaxine succinate monohydrate (as desvenlafaxine)",
+    "ingredient_code": "626402ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tapentadol hydrochloride (as tapentadol)",
+    "ingredient_code": "628401ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "18세 미만에서 사용 권장되지 않음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tapentadol hydrochloride",
+    "ingredient_code": "628401ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "18세 미만에서 사용 권장되지 않음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tapentadol hydrochloride",
+    "ingredient_code": "628402ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "18세 미만에서 사용 권장되지 않음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tapentadol hydrochloride (as tapentadol)",
+    "ingredient_code": "628404ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "18세 미만에서 사용 권장되지 않음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "630901CSI",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "630904CSI",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "630907CSI",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "630910CSI",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "630911CSI",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "zabofloxacin D-Aspartate Sesquihydrate (as zabofloxacin)",
+    "ingredient_code": "637101ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 퀴놀론계 항균제는 몇몇 어린 동물종에서 관절병증, 뼈연골증을 유발함",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "atazanavir sulfate (as atazanavir), cobicistat silicon dioxide (as cobicistat)",
+    "ingredient_code": "646700ATB",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "핵황달의 위험 나타날 수 있음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "darunavir ethanolate (as darunavir), cobicistat silicon dioxide (as cobicistat)",
+    "ingredient_code": "647600ATB",
+    "age_limit": "36",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립 생후 23-26일 랫트에서 사망 관찰됨.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "armodafinil",
+    "ingredient_code": "662301ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 심각한 피부 과민반응 및 정신과적 이상반응이 발생할 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "armodafinil",
+    "ingredient_code": "662302ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 심각한 피부 과민반응 및 정신과적 이상반응이 발생할 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "desvenlafaxine",
+    "ingredient_code": "687701ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "desvenlafaxine",
+    "ingredient_code": "687702ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "desvenlafaxine",
+    "ingredient_code": "687703ATR",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 청소년에서의 사용 승인되지 않음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "benserazide hydrochloride (as benserazide), levodopa",
+    "ingredient_code": "722100ATB",
+    "age_limit": "25",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 동물실험에서 벤세라지드에 의해 골격기형이 나타남",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "acetaminophen",
+    "ingredient_code": "101305APD",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아 및 고령자(노인)는 최소 필요량을 복용하고 이상반응에 유의. 과도한 체온강하, 허탈, 사지냉각 등이 나타날 수 있음",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "albendazol",
+    "ingredient_code": "104301ATB",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "atropine sulfate",
+    "ingredient_code": "111836COS",
+    "age_limit": "4",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "brimonidine tartrate",
+    "ingredient_code": "118436COS",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립. 시판 후 조사에서 이 약을 투여 받은 영아에서 무호흡, 서맥, 혼수, 저혈압, 저체온, 근육긴장저하, 기면, 창백, 호흡억제, 졸음이 보고됨",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cetirizine dihydrochloride",
+    "ingredient_code": "130504ALQ",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cetirizine dihydrochloride",
+    "ingredient_code": "130509ALQ",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135845CLQ",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "clobetasol propionate",
+    "ingredient_code": "135846CLQ",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dactinomycin",
+    "ingredient_code": "140101BIJ",
+    "age_limit": "1",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "영아에 대해 독성이 빈번하게 발생",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dicyclomine hydrochloride",
+    "ingredient_code": "143701ACH",
+    "age_limit": "6",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "dicyclomine hydrochloride",
+    "ingredient_code": "143701ATB",
+    "age_limit": "6",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158309ATC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "적절한 투여 용량 및 안전성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "fentanyl citrate (as fentanyl)",
+    "ingredient_code": "158310ATC",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "적절한 투여 용량 및 안전성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "hydrotalcite",
+    "ingredient_code": "171433AGN",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "hydrotalcite",
+    "ingredient_code": "171435APD",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179705CPL",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179740CCM",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179741CCM",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179908CPO",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179911CPO",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen(f.)",
+    "ingredient_code": "179913CPL",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "ketoprofen",
+    "ingredient_code": "179916CPL",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "levofloxacin",
+    "ingredient_code": "183236BIJ",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "1. 마크로라이드 불응성 마이코플라즈마 폐렴 소아환자에게 투여가능 : 마크로라이드계 항생제 투여 3일 후에도 증상이 개선되지 않는 소아[보건복지부 고시 제2023-252호(약제), ’23.12.20. 참고]2. 안전성 및 유효성 미확립, 퀴놀론계 항균제는 몇몇 어린 동물종에서 관절병증, 뻐연골증을 유발",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lidocaine",
+    "ingredient_code": "183810CDS",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "perphenazine hydrochloride",
+    "ingredient_code": "211403BIJ",
+    "age_limit": "14",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "추체외로증상 특히 운동장애가 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "piracetam",
+    "ingredient_code": "213407BIJ",
+    "age_limit": "16",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "propofol",
+    "ingredient_code": "219837BIJ",
+    "age_limit": "36",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아에게 마취 목적으로 투여 시 심장-호흡기계 억제 보고 후두염 및 후두개염으로 진단된 소아에게 진정 목적으로 이약을 장기간(3~5일) 투여 시 사망 보고",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "propofol",
+    "ingredient_code": "219839BIJ",
+    "age_limit": "36",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "신생아에게 마취 목적으로 투여 시 심장-호흡기계 억제 보고 후두염 및 후두개염으로 진단된 소아에게 진정 목적으로 이약을 장기간(3~5일) 투여 시 사망 보고",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "silver sulfadiazine",
+    "ingredient_code": "227434CCM",
+    "age_limit": "2",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성이 미확립- 미숙아, 신생아(생후 2개월이내)는 핵황달을 일으킬 가능성 증가",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "taurolidine",
+    "ingredient_code": "234730BIJ",
+    "age_limit": "6",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "xylometazoline hydrochloride",
+    "ingredient_code": "249604CLQ",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "xylometazoline hydrochloride",
+    "ingredient_code": "249607CSI",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "xylometazoline hydrochloride",
+    "ingredient_code": "249611CSI",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "xylometazoline hydrochloride",
+    "ingredient_code": "249612CLQ",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "xylometazoline hydrochloride",
+    "ingredient_code": "249613CLQ",
+    "age_limit": "12",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "isopropylantipyrine 함유제제",
+    "ingredient_code": "252500ATB",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "이소프로필안티피린 함유제제(단일제, 복합제)",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "Hydrotalcite, Azulene, L-glutamine",
+    "ingredient_code": "285500ATB",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mometasone furoate",
+    "ingredient_code": "361346CCM",
+    "age_limit": "2",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아는 체중당 체표면적의 비율이 성인보다 커서 코르티코이드로 인해 HPA축(시상하부-뇌하수체-부신 축) 억제, 쿠싱증후군, 발육장애, 두개내압항진 등이 나타나기 쉬움",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "nitrofurantoin",
+    "ingredient_code": "376401ACH",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "태아 및 신생아에서 용혈성 빈혈의 가능성",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sodium tetradecyl sulfate concentrate (as sodium tetradecyl sulfate)",
+    "ingredient_code": "446730BIJ",
+    "age_limit": "3",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sodium tetradecyl sulfate concentrate (as sodium tetradecyl sulfate)",
+    "ingredient_code": "446731BIJ",
+    "age_limit": "3",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sodium tetradecyl sulfate concentrate (as sodium tetradecyl sulfate)",
+    "ingredient_code": "446732BIJ",
+    "age_limit": "3",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sodium tetradecyl sulfate concentrate (as sodium tetradecyl sulfate)",
+    "ingredient_code": "446733BIJ",
+    "age_limit": "3",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "vardenafil hydrochloride hydrate (as vardenafil)",
+    "ingredient_code": "550202ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "vardenafil hydrochloride hydrate (as vardenafil)",
+    "ingredient_code": "550204ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mazindol",
+    "ingredient_code": "551401ATB",
+    "age_limit": "16",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mirodenafil hydrochloride (as mirodenafil)",
+    "ingredient_code": "552301ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mirodenafil hydrochloride (as mirodenafil)",
+    "ingredient_code": "552302ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "phentermine HCl",
+    "ingredient_code": "552702ACR",
+    "age_limit": "16",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sildenafil citrate (as sildenafil)",
+    "ingredient_code": "553304ATD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "다만, 발기부전치료에 한함",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "udenafil",
+    "ingredient_code": "553401ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "udenafil",
+    "ingredient_code": "553402ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "udenafil",
+    "ingredient_code": "553403ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "Udenafil",
+    "ingredient_code": "553404ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tadalafil",
+    "ingredient_code": "560701APD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tadalafil",
+    "ingredient_code": "560702APD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "tadalafil",
+    "ingredient_code": "560703APD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "live attenuated yellow fever virus 17D",
+    "ingredient_code": "615301BIJ",
+    "age_limit": "6",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "avanafil",
+    "ingredient_code": "616101ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "avanafil",
+    "ingredient_code": "616102ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sildenafil",
+    "ingredient_code": "618301ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "다만, 발기부전치료에 한함",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sildenafil",
+    "ingredient_code": "618302APD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "다만, 발기부전치료에 한함",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sildenafil",
+    "ingredient_code": "618302ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "다만, 발기부전치료에 한함",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "sildenafil",
+    "ingredient_code": "618303ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "다만, 발기부전치료에 한함",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "vortioxetine hydrobromide (as vortioxetine)",
+    "ingredient_code": "628503ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "소아에 대한 안전성 및 유효성이 확립되지 않았으므로, 소아에게 이 약을 투여하는 것은 권장되지 않음.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "racecadotril",
+    "ingredient_code": "632401APD",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "racecadotril",
+    "ingredient_code": "632402APD",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "안전성 및 유효성 미확립",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lidocaine, prilocaine",
+    "ingredient_code": "661200CCM",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "흡수에 대한 자료가 불완전하므로 소아의 생식기 점막에는 적용하지 말 것. 메트헤모글로빈의 일시적 증가 보고",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "lidocaine, prilocaine",
+    "ingredient_code": "661400CCM",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "이하 (2)",
+    "detail": "흡수에 대한 자료가 불완전하므로 소아의 생식기 점막에는 적용하지 말 것. 메트헤모글로빈의 일시적 증가 보고",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "chlorhexidine gluconate solution, lidocaine hydrochloride",
+    "ingredient_code": "697200CCM",
+    "age_limit": "24",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mirodenafil",
+    "ingredient_code": "699201ATD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "mirodenafil",
+    "ingredient_code": "699202ATD",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "molnupiravir",
+    "ingredient_code": "707001ACS",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "★ 긴급사용승인 의약품(라게브리오, 성분명: 몰누피라비르) 연령금기 ★ 금기사유 : 18세 미만 환자에게 사용이 승인되지 않았음 ※ 랫드에 대한 반복투여 독성시험에서 뼈 및 연골 독성이 관찰됨. 환자의 안전한 의약품 사용을 위해 ‘18세 미만’ 환자에 투여를 금지하여 주시기 바랍니다.",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "isopropylantipyrine 함유제제",
+    "ingredient_code": "A04200ATB",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "이소프로필안티피린 함유제제(단일제, 복합제)",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "Calcium carbonate, Cinnamon Oil, Diastase-protease-cellulase, Fennel Oil, Hydrotalcite, Lipase Ⅱ, Prozyme,  Sodium bicarbonate, Ursodeoxycholic acid",
+    "ingredient_code": "D07400ATB",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cholecalciferol granule (as vitamin D3)",
+    "ingredient_code": "D07902ATB",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cholecalciferol concentrated powder (as vitamin D3)",
+    "ingredient_code": "D07904ATB",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cholecalciferol concentrated powder (as vitamin D3)",
+    "ingredient_code": "D07905ATB",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "cholecalciferol concentrated powder (as vitamin D3)",
+    "ingredient_code": "D07906ATB",
+    "age_limit": "3",
+    "age_unit": "개월 (2)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "Pulvis Cinnamomi Corticis(Cinnamon Bark Powder), Pulvis Gentianae Luteae Radicis et Rhizomatis(Gentian Powder), Hydrotalcite, Sodium bicarbonate",
+    "ingredient_code": "D08300ATB",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "Aluminium hydroxide, Benfotiamine, Pulvis Syzygii Flos(Clove Powder), Licorice Extract Powder, Pulvis Curcumae Radicis(Curcuma Root Powder), Fennel, Pulvis Ginseng Radicis,  Hydrotalcite, Magnesium hydroxide, Methylmethionine sulfonium chloride, Zingiberis Rhizoma Recens",
+    "ingredient_code": "D30500AGN",
+    "age_limit": "15",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "Tipiracil, Trifluridine",
+    "ingredient_code": "E22500ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아에 대한 안전성 및 유효성 미확립, 동물실험(랫트)에서 지속적으로 성장하는 전치에 대한 영향 보고",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "Tipiracil, Trifluridine",
+    "ingredient_code": "E22600ATB",
+    "age_limit": "18",
+    "age_unit": "세 (3)",
+    "age_condition": "이하 (2)",
+    "detail": "소아에 대한 안전성 및 유효성 미확립, 동물실험(랫트)에서 지속적으로 성장하는 전치에 대한 영향 보고",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  },
+  {
+    "ingredient_name_eng": "berberine tannate + kaolin + pectin",
+    "ingredient_code": "E47600ASY",
+    "age_limit": "19",
+    "age_unit": "세 (3)",
+    "age_condition": "미만 (1)",
+    "detail": "",
+    "product_count": 1,
+    "source": "심평원 DUR 2024.5"
+  }
+]

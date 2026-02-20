@@ -1,0 +1,11 @@
+﻿id,ingredient_a,ingredient_a_kor,ingredient_b,ingredient_b_kor,severity,category,reason_technical,reason_plain,action_guide,source
+CI-001,aspirin,아스피린,ibuprofen,이부프로펜,contraindicated,병용금기,NSAIDs 병용 시 GI bleeding risk 증가 및 aspirin의 항혈소판 효과 감소,"아스피린과 이부프로펜을 함께 드시면 위장관 출혈 위험이 높아지고, 아스피린의 효과가 떨어질 수 있어요.",다음 진료 시 의사에게 '이부프로펜도 함께 먹고 있다'고 말씀하세요.,DUR 병용금기
+CI-002,aspirin,아스피린,naproxen,나프록센,contraindicated,병용금기,NSAIDs 병용으로 GI bleeding 및 renal toxicity 위험 증가,아스피린과 나프록센을 함께 드시면 위장과 신장에 부담이 커질 수 있어요.,소염진통제가 필요하시면 의사에게 현재 아스피린 복용 중임을 알려주세요.,DUR 병용금기
+CI-003,warfarin,와파린,aspirin,아스피린,contraindicated,병용금기,출혈 위험 현저히 증가. 두 약물 모두 항혈전 작용.,와파린과 아스피린을 함께 드시면 출혈 위험이 매우 높아져요.,반드시 의사에게 두 약을 함께 드시고 있다고 알려주세요.,DUR 병용금기
+CI-004,amlodipine,암로디핀,tamsulosin,탐스로신,caution,병용주의,두 약물 모두 혈압 강하 작용. 병용 시 과도한 저혈압 위험.,혈압약(암로디핀)과 전립선약(탐스로신)을 함께 드시면 혈압이 너무 떨어질 수 있어요.,어지러움이나 두통이 있으면 의사에게 바로 알려주세요.,DUR 병용주의
+CI-005,metformin,메트포르민,alcohol,알코올(음주),caution,병용주의,Lactic acidosis 위험 증가. 알코올이 메트포르민의 젖산 축적 효과를 강화.,당뇨약(메트포르민)을 드시면서 술을 마시면 젖산이 쌓여 위험할 수 있어요.,메트포르민 복용 중에는 음주를 피하시는 게 좋아요.,DUR 병용주의
+CI-006,simvastatin,심바스타틴,amlodipine,암로디핀,caution,용량주의,Amlodipine이 simvastatin 혈중 농도를 높여 횡문근융해증 위험 증가. Simvastatin 20mg 초과 금기.,고지혈증약(심바스타틴)과 혈압약(암로디핀)을 함께 드시면 근육 손상 위험이 있어요.,근육통이 있으면 즉시 의사에게 알려주세요. 심바스타틴 용량 확인이 필요해요.,DUR 용량주의
+CI-007,clopidogrel,클로피도그렐,omeprazole,오메프라졸,caution,병용주의,Omeprazole이 CYP2C19을 억제하여 clopidogrel의 항혈소판 효과 감소.,혈액응고방지약(클로피도그렐)과 위장약(오메프라졸)을 함께 드시면 혈액응고방지 효과가 줄어들 수 있어요.,위장약이 필요하시면 의사에게 다른 종류로 바꿔달라고 말씀하세요.,DUR 병용주의
+CI-008,lisinopril,리시노프릴,potassium supplements,칼륨 보충제,caution,병용주의,ACE inhibitor가 칼륨 배출을 줄여 고칼륨혈증 위험 증가.,혈압약(리시노프릴)을 드시면서 칼륨 보충제를 함께 드시면 혈중 칼륨이 너무 높아질 수 있어요.,칼륨이 들어있는 영양제나 건강식품을 드시고 있다면 의사에게 알려주세요.,DUR 병용주의
+CI-009,metformin,메트포르민,iodinated contrast,요오드 조영제,contraindicated,병용금기,조영제 투여 전후 메트포르민 중단 필요. 젖산산증 위험.,CT 촬영 등에서 조영제를 맞으시려면 당뇨약(메트포르민)을 일시 중단해야 해요.,검사 전 의사에게 메트포르민 복용 중이라고 반드시 알려주세요.,DUR 병용금기
+CI-010,diltiazem,딜티아젬,simvastatin,심바스타틴,caution,용량주의,Diltiazem이 simvastatin 대사를 억제하여 횡문근융해증 위험 증가.,혈압약(딜티아젬)과 고지혈증약(심바스타틴)을 함께 드시면 근육에 문제가 생길 수 있어요.,"근육통, 약해지는 느낌이 있으면 바로 의사에게 알려주세요.",DUR 용량주의

@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "description": "서비스 실현에 필요한 외부 데이터 소스 목록 및 수집 가이드",
+    "created": "2026-02-20",
+    "project": "다제약물 충돌 방지 서비스"
+  },
+  "data_sources": [
+    {
+      "id": "DS-001",
+      "name": "식약처 DUR 품목정보 API",
+      "provider": "식품의약품안전처",
+      "type": "Open API (REST/XML)",
+      "url": "https://www.data.go.kr/data/15059486/openapi.do",
+      "api_base": "http://apis.data.go.kr/1471000/DURPrdlstInfoService03",
+      "auth": "공공데이터포털 API Key (무료, 회원가입 필요)",
+      "rate_limit": "개발계정 10,000건/일",
+      "priority": "필수",
+      "endpoints": [
+        {
+          "name": "병용금기 정보 조회",
+          "path": "/getUsjntTabooInfoList03",
+          "description": "두 약물 간 병용금기 성분 정보. 서비스의 핵심 충돌 분석 데이터.",
+          "key_fields": [
+            "ITEM_SEQ",
+            "ITEM_NAME",
+            "ENTP_NAME",
+            "MAIN_INGR_ENG",
+            "MIXTURE_ITEM_SEQ",
+            "MIXTURE_ITEM_NAME",
+            "MIXTURE_INGR_ENG",
+            "PROHBT_CONTENT"
+          ],
+          "usage_in_service": "check-interaction API의 병용금기 판정 기준 데이터"
+        },
+        {
+          "name": "효능군중복 정보 조회",
+          "path": "/getEfcyDplctInfoList03",
+          "description": "같은 효능군에 속하는 약물 중복 정보. 성분 중복 검출에 사용.",
+          "key_fields": [
+            "ITEM_SEQ",
+            "ITEM_NAME",
+            "CLASS_NO",
+            "CLASS_NAME",
+            "MAIN_INGR_ENG"
+          ],
+          "usage_in_service": "동일 효능군 약물 중복 경고 (예: 아세트아미노펜 중복)"
+        },
+        {
+          "name": "노인주의 정보 조회",
+          "path": "/getOdsnAtentInfoList03",
+          "description": "65세 이상 노인에게 주의가 필요한 약물 정보.",
+          "key_fields": [
+            "ITEM_SEQ",
+            "ITEM_NAME",
+            "MAIN_INGR_ENG",
+            "PROHBT_CONTENT"
+          ],
+          "usage_in_service": "프로필 birth_year 기반 노인주의 약물 추가 경고"
+        },
+        {
+          "name": "용량주의 정보 조회",
+          "path": "/getDoseCautionInfoList03",
+          "description": "용량 초과 주의 약물 정보.",
+          "key_fields": [
+            "ITEM_SEQ",
+            "ITEM_NAME",
+            "MAIN_INGR_ENG",
+            "MAX_DOSE",
+            "PROHBT_CONTENT"
+          ],
+          "usage_in_service": "용량 초과 위험 검출"
+        },
+        {
+          "name": "DUR 품목정보 조회",
+          "path": "/getDurPrdlstInfoList03",
+          "description": "DUR 대상 전체 의약품 품목 기본 정보.",
+          "key_fields": [
+            "ITEM_SEQ",
+            "ITEM_NAME",
+            "ENTP_NAME",
+            "ITEM_PERMIT_DATE",
+            "ETC_OTC_CODE"
+          ],
+          "usage_in_service": "약물 기초 DB 구축, OCR 인식 결과 매칭"
+        }
+      ],
+      "setup_steps": [
+        "1. data.go.kr 회원가입",
+        "2. '식품의약품안전처_의약품안전사용서비스(DUR)품목정보' 검색 → 활용신청",
+        "3. API Key 발급 (즉시 또는 1~2일 소요)",
+        "4. 개발계정으로 테스트 후, 운영계정 전환 시 활용사례 등록"
+      ]
+    },
+    {
+      "id": "DS-002",
+      "name": "식약처 DUR 성분정보 API",
+      "provider": "식품의약품안전처",
+      "type": "Open API (REST/XML)",
+      "url": "https://www.data.go.kr/data/15056780/openapi.do",
+      "auth": "공공데이터포털 API Key",
+      "priority": "필수",
+      "description": "의약품 허가·행정·성분 관련 정보. 약품명 ↔ 성분명 매핑에 필수.",
+      "key_fields": [
+        "ITEM_SEQ",
+        "ITEM_NAME",
+        "ITEM_ENG_NAME",
+        "INGR_CODE",
+        "INGR_KOR_NAME",
+        "INGR_ENG_NAME",
+        "DOSAGE_FORM",
+        "ETC_OTC_CODE"
+      ],
+      "usage_in_service": "OCR로 추출한 약품명을 성분 코드로 정규화, 처방약/OTC 자동 분류"
+    },
+    {
+      "id": "DS-003",
+      "name": "식약처 의약품개요정보 (e약은요) API",
+      "provider": "식품의약품안전처",
+      "type": "Open API (REST/XML)",
+      "url": "https://www.data.go.kr/data/15075057/openapi.do",
+      "auth": "공공데이터포털 API Key",
+      "priority": "권장",
+      "description": "일반의약품의 효능, 사용법, 주의사항, 상호작용, 부작용, 보관법 등 상세 정보.",
+      "key_fields": [
+        "ITEM_SEQ",
+        "ITEM_NAME",
+        "EFCY_QESITM",
+        "USE_METHOD_QESITM",
+        "ATPN_WARN_QESITM",
+        "INTRC_QESITM",
+        "SE_QESITM"
+      ],
+      "usage_in_service": "쉬운 언어 안내 생성 시 LLM 프롬프트 보강 자료, OTC 약물 상세 정보"
+    },
+    {
+      "id": "DS-004",
+      "name": "심평원 DUR 의약품 목록 (파일 데이터)",
+      "provider": "건강보험심사평가원",
+      "type": "CSV 파일 다운로드",
+      "url": "https://www.data.go.kr/data/15127983/fileData.do",
+      "auth": "없음 (직접 다운로드)",
+      "priority": "권장",
+      "description": "DUR 시스템에서 적용 중인 병용금기, 연령금기, 임부금기, 노인주의 의약품 품목 정보 CSV 파일.",
+      "usage_in_service": "API 보완용 오프라인 데이터, 초기 DB 시딩"
+    },
+    {
+      "id": "DS-005",
+      "name": "건강기능식품 정보포털 (병용 섭취 정보)",
+      "provider": "식품의약품안전처",
+      "type": "웹사이트 (정형 API 미제공)",
+      "url": "https://www.hsinportal.com",
+      "auth": "없음",
+      "priority": "필수",
+      "description": "건강기능식품 원료별 의약품 병용 섭취 주의 정보. DUR이 커버하지 못하는 건강기능식품-의약품 상호작용의 핵심 소스.",
+      "usage_in_service": "건강기능식품(supplement) 타입 약물의 충돌 분석 기준 데이터",
+      "data_collection_method": "웹 스크래핑 또는 수동 수집 후 자체 DB 구축 필요",
+      "known_interactions": [
+        "은행잎추출물 + 항응고제(와파린 등) → 출혈 위험 증가",
+        "홍삼 + 당뇨약(인슐린, 설폰요소제 등) → 저혈당 위험",
+        "오메가3 + 항혈전제(아스피린, 클로피도그렐 등) → 출혈 위험 증가",
+        "감초 + 이뇨제 → 저칼륨혈증 위험",
+        "감초 + 고혈압제 → 약물 효과 감소",
+        "세인트존스워트 + 항우울제(SSRI) → 세로토닌 증후군 위험",
+        "칼슘 + 갑상선약(레보티록신) → 갑상선약 흡수 저하",
+        "철분 + 갑상선약(레보티록신) → 갑상선약 흡수 저하",
+        "코엔자임Q10 + 항응고제(와파린) → 항응고 효과 감소",
+        "비타민K + 항응고제(와파린) → 항응고 효과 감소"
+      ]
+    }
+  ]
+}

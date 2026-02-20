@@ -1,0 +1,124 @@
+[
+  {
+    "group_id": "DG-001",
+    "ingredient_eng": "acetaminophen",
+    "ingredient_kor": "아세트아미노펜",
+    "aliases": [
+      "타이레놀",
+      "파라세타몰",
+      "APAP",
+      "paracetamol"
+    ],
+    "max_daily_dose": "4000mg",
+    "common_products": [
+      "타이레놀정",
+      "판콜에이정",
+      "콜대원정",
+      "어린이타이레놀현탁액",
+      "게보린정"
+    ],
+    "overdose_risk": "간독성. 일일 4g 초과 시 급성 간부전 위험.",
+    "reason_plain": "감기약 속에 이미 아세트아미노펜이 들어있는 경우가 많아요. 타이레놀과 함께 드시면 간에 무리가 갈 수 있어요."
+  },
+  {
+    "group_id": "DG-002",
+    "ingredient_eng": "ibuprofen",
+    "ingredient_kor": "이부프로펜",
+    "aliases": [
+      "애드빌",
+      "부루펜",
+      "이브프로펜"
+    ],
+    "max_daily_dose": "1200mg(OTC), 3200mg(처방)",
+    "common_products": [
+      "부루펜정",
+      "애드빌리퀴겔",
+      "이부프로펜연질캡슐"
+    ],
+    "overdose_risk": "위장관 출혈, 신장 손상. 다른 NSAIDs와 중복 시 위험 증가.",
+    "reason_plain": "소염진통제 성분이 중복되면 위장 출혈 위험이 높아져요."
+  },
+  {
+    "group_id": "DG-003",
+    "ingredient_eng": "pseudoephedrine",
+    "ingredient_kor": "슈도에페드린",
+    "aliases": [
+      "수도에페드린"
+    ],
+    "max_daily_dose": "240mg",
+    "common_products": [
+      "액티피드정",
+      "콘택600정",
+      "슈다페드"
+    ],
+    "overdose_risk": "혈압 상승. 고혈압 환자 주의.",
+    "reason_plain": "코막힘 약 성분이 중복되면 혈압이 올라갈 수 있어요. 고혈압약을 드시는 분은 특히 조심하세요."
+  },
+  {
+    "group_id": "DG-004",
+    "ingredient_eng": "chlorpheniramine",
+    "ingredient_kor": "클로르페니라민",
+    "aliases": [
+      "클로르페니라민말레산염",
+      "클로페니라민"
+    ],
+    "max_daily_dose": "24mg",
+    "common_products": [
+      "콜대원정",
+      "판콜에이정",
+      "지르텍(다른성분이지만 항히스타민 효능군 중복)"
+    ],
+    "overdose_risk": "과도한 졸음, 구강 건조. 노인에서 인지 기능 저하 가능.",
+    "reason_plain": "항히스타민제가 중복되면 졸음이 심해지고, 어르신은 넘어지실 수 있어요."
+  },
+  {
+    "group_id": "DG-005",
+    "ingredient_eng": "dextromethorphan",
+    "ingredient_kor": "덱스트로메토르판",
+    "aliases": [
+      "DXM",
+      "덱스트로메톨판"
+    ],
+    "max_daily_dose": "120mg",
+    "common_products": [
+      "로비투신",
+      "코대원시럽",
+      "판콜에이"
+    ],
+    "overdose_risk": "과량 시 환각, 세로토닌 증후군(SSRI 항우울제와 병용 시).",
+    "reason_plain": "기침약 성분이 중복되면 어지러움이 심해질 수 있어요. 항우울제와 함께 드시면 위험해요."
+  },
+  {
+    "group_id": "DG-006",
+    "ingredient_eng": "loperamide",
+    "ingredient_kor": "로페라미드",
+    "aliases": [
+      "로페라마이드"
+    ],
+    "max_daily_dose": "16mg",
+    "common_products": [
+      "로페민캡슐",
+      "이모듐"
+    ],
+    "overdose_risk": "과량 시 심장 부정맥. 장 폐색 위험.",
+    "reason_plain": "설사약 성분이 중복되면 장이 멈출 수 있어 위험해요."
+  },
+  {
+    "group_id": "DG-007",
+    "ingredient_eng": "calcium carbonate",
+    "ingredient_kor": "탄산칼슘",
+    "aliases": [
+      "칼슘카보네이트",
+      "칼슘"
+    ],
+    "max_daily_dose": "2500mg(칼슘 원소 기준 1000mg)",
+    "common_products": [
+      "칼슘마그네슘정",
+      "겔포스",
+      "탈시드",
+      "각종 칼슘 건강기능식품"
+    ],
+    "overdose_risk": "고칼슘혈증, 신장 결석. 제산제와 칼슘 보충제 동시 복용 주의.",
+    "reason_plain": "위장약과 칼슘 영양제에 모두 칼슘이 들어있어, 함께 드시면 칼슘이 너무 많아질 수 있어요."
+  }
+]
