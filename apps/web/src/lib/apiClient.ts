@@ -91,6 +91,11 @@ export async function fetchAnalysisHistory(profileId: string): Promise<Interacti
 }
 
 // OCR
+interface RawKeyword {
+  text: string;
+  matchedMedIndex: number | null;
+}
+
 interface OcrResult {
   ocrSessionId: string;
   imageType: string;
@@ -103,6 +108,7 @@ interface OcrResult {
     type: 'prescription' | 'otc' | 'supplement';
     confidence: number;
   }[];
+  rawKeywords: RawKeyword[];
 }
 
 export async function parseOcrImage(profileId: string, file: File): Promise<OcrResult> {

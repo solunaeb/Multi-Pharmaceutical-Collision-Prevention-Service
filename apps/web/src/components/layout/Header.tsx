@@ -8,7 +8,7 @@ interface HeaderProps {
   showBack?: boolean;
 }
 
-export default function Header({ title = '약이름', showBack = false }: HeaderProps) {
+export default function Header({ title = '약궁합', showBack = false }: HeaderProps) {
   const router = useRouter();
   return (
     <header className="sticky top-0 z-50 bg-white border-b border-neutral-200">

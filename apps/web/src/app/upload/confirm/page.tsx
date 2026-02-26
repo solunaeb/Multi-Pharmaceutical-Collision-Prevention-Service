@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
-import { CheckCircle, AlertTriangle } from 'lucide-react';
+import { CheckCircle, AlertTriangle, List } from 'lucide-react';
 import PageContainer from '@/components/layout/PageContainer';
 import Card from '@/components/ui/Card';
 import Button from '@/components/ui/Button';
@@ -68,16 +68,19 @@ export default function OcrConfirmPage() {
 
   const [meds, setMeds] = useState<ExtractedMed[]>([]);
   const [preview, setPreview] = useState<string | null>(null);
+  const [hasRawKeywords, setHasRawKeywords] = useState(false);
   const [loaded, setLoaded] = useState(false);
 
   useEffect(() => {
     const stored = sessionStorage.getItem('ocrResult');
     const storedPreview = sessionStorage.getItem('ocrPreview');
+    const rawKeywords = sessionStorage.getItem('rawKeywords');
     if (stored) {
       const result: OcrResult = JSON.parse(stored);
       setMeds(result.extractedMeds.map((m) => ({ ...m, selected: true })));
     }
     if (storedPreview) setPreview(storedPreview);
+    if (rawKeywords) setHasRawKeywords(true);
     setLoaded(true);
   }, []);
 
@@ -112,6 +115,7 @@ export default function OcrConfirmPage() {
         onSuccess: (data) => {
           sessionStorage.removeItem('ocrResult');
           sessionStorage.removeItem('ocrPreview');
+          sessionStorage.removeItem('rawKeywords');
           router.push(`/analysis/${data.interactionResult.log_id}`);
         },
       },
@@ -154,6 +158,15 @@ export default function OcrConfirmPage() {
           <h3 className="text-h3 text-neutral-900">
             인식된 약물 ({meds.length}건)
           </h3>
+          {hasRawKeywords && (
+            <button
+              onClick={() => router.push('/upload/keywords')}
+              className="w-full flex items-center justify-center gap-sm py-sm px-lg rounded-button border border-neutral-200 text-body text-neutral-600 hover:bg-neutral-50 transition-colors"
+            >
+              <List size={16} />
+              전체 텍스트에서 선택하기
+            </button>
+          )}
           {meds.map((med, i) => (
             <Card key={i}>
               <div className="space-y-md">

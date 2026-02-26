@@ -2,12 +2,14 @@
 
 import { useState, useRef } from 'react';
 import { useRouter } from 'next/navigation';
-import { Upload, Image as ImageIcon, X } from 'lucide-react';
+import { Upload, X, Crop as CropIcon, CheckCircle } from 'lucide-react';
 import PageContainer from '@/components/layout/PageContainer';
 import Button from '@/components/ui/Button';
+import ImageCropper from '@/components/upload/ImageCropper';
 import { useProfile } from '@/context/ProfileContext';
 import { useProfiles } from '@/hooks/useProfiles';
 import { parseOcrImage } from '@/lib/apiClient';
+import { blobToDataUrl } from '@/lib/cropImage';
 
 export default function UploadPage() {
   const router = useRouter();
@@ -17,8 +19,14 @@ export default function UploadPage() {
 
   const [file, setFile] = useState<File | null>(null);
   const [preview, setPreview] = useState<string | null>(null);
+  const [originalPreview, setOriginalPreview] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+
+  // Crop states
+  const [isCropping, setIsCropping] = useState(false);
+  const [croppedFile, setCroppedFile] = useState<File | null>(null);
+  const [isCropped, setIsCropped] = useState(false);
 
   const handleFileSelect = (selected: File) => {
     if (!selected.type.match(/^image\/(jpeg|png|jpg)$/)) {
@@ -31,8 +39,17 @@ export default function UploadPage() {
     }
     setFile(selected);
     setError(null);
+    // Reset crop state on new file
+    setCroppedFile(null);
+    setIsCropped(false);
+    setIsCropping(false);
+
     const reader = new FileReader();
-    reader.onloadend = () => setPreview(reader.result as string);
+    reader.onloadend = () => {
+      const dataUrl = reader.result as string;
+      setPreview(dataUrl);
+      setOriginalPreview(dataUrl);
+    };
     reader.readAsDataURL(selected);
   };
 
@@ -42,13 +59,38 @@ export default function UploadPage() {
     if (dropped) handleFileSelect(dropped);
   };
 
+  const handleCropComplete = async (blob: Blob) => {
+    const cropped = new File([blob], file?.name || 'cropped.jpg', {
+      type: 'image/jpeg',
+    });
+    setCroppedFile(cropped);
+    setIsCropped(true);
+    setIsCropping(false);
+
+    const dataUrl = await blobToDataUrl(blob);
+    setPreview(dataUrl);
+  };
+
+  const handleCropCancel = () => {
+    setIsCropping(false);
+  };
+
+  const handleRemoveFile = () => {
+    setFile(null);
+    setPreview(null);
+    setOriginalPreview(null);
+    setCroppedFile(null);
+    setIsCropped(false);
+    setIsCropping(false);
+  };
+
   const handleSubmit = async () => {
     if (!file || !selectedProfileId) return;
     setLoading(true);
     setError(null);
 
     try {
-      const result = await parseOcrImage(selectedProfileId, file);
+      const result = await parseOcrImage(selectedProfileId, croppedFile || file);
       // Store result in sessionStorage for the confirm page
       sessionStorage.setItem('ocrResult', JSON.stringify(result));
       sessionStorage.setItem('ocrPreview', preview || '');
@@ -67,50 +109,83 @@ export default function UploadPage() {
   return (
     <PageContainer title="사진 업로드">
       <div className="space-y-xl">
-        {/* Drop Zone */}
-        <div
-          onDrop={handleDrop}
-          onDragOver={(e) => e.preventDefault()}
-          onClick={() => fileInputRef.current?.click()}
-          className={`
-            border-2 border-dashed rounded-card p-3xl flex flex-col items-center justify-center gap-lg cursor-pointer
-            transition-colors min-h-[200px]
-            ${file ? 'border-primary bg-primary-light/20' : 'border-neutral-200 hover:border-primary hover:bg-neutral-50'}
-          `}
-        >
-          {preview ? (
-            <div className="relative">
-              <img
-                src={preview}
-                alt="업로드된 이미지 미리보기"
-                className="max-h-[300px] rounded-input object-contain"
-              />
-              <button
-                onClick={(e) => {
-                  e.stopPropagation();
-                  setFile(null);
-                  setPreview(null);
-                }}
-                className="absolute -top-2 -right-2 bg-white rounded-full shadow-card min-w-[32px] min-h-[32px] flex items-center justify-center"
-                aria-label="이미지 제거"
-              >
-                <X size={16} className="text-neutral-600" />
-              </button>
+        {/* Crop UI */}
+        {isCropping && originalPreview ? (
+          <ImageCropper
+            imageSrc={originalPreview}
+            onCropComplete={handleCropComplete}
+            onCancel={handleCropCancel}
+          />
+        ) : (
+          <>
+            {/* Drop Zone */}
+            <div
+              onDrop={handleDrop}
+              onDragOver={(e) => e.preventDefault()}
+              onClick={() => fileInputRef.current?.click()}
+              className={`
+                border-2 border-dashed rounded-card p-3xl flex flex-col items-center justify-center gap-lg cursor-pointer
+                transition-colors min-h-[200px]
+                ${file ? 'border-primary bg-primary-light/20' : 'border-neutral-200 hover:border-primary hover:bg-neutral-50'}
+              `}
+            >
+              {preview ? (
+                <div className="relative">
+                  <img
+                    src={preview}
+                    alt="업로드된 이미지 미리보기"
+                    className="max-h-[300px] rounded-input object-contain"
+                  />
+                  <button
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      handleRemoveFile();
+                    }}
+                    className="absolute -top-2 -right-2 bg-white rounded-full shadow-card min-w-[32px] min-h-[32px] flex items-center justify-center"
+                    aria-label="이미지 제거"
+                  >
+                    <X size={16} className="text-neutral-600" />
+                  </button>
+                </div>
+              ) : (
+                <>
+                  <Upload size={32} className="text-neutral-400" />
+                  <div className="text-center">
+                    <p className="text-body text-neutral-900">
+                      사진을 드래그하거나 클릭하여 선택하세요
+                    </p>
+                    <p className="text-caption text-neutral-400 mt-xs">
+                      JPEG, PNG (최대 10MB)
+                    </p>
+                  </div>
+                </>
+              )}
             </div>
-          ) : (
-            <>
-              <Upload size={32} className="text-neutral-400" />
-              <div className="text-center">
-                <p className="text-body text-neutral-900">
-                  사진을 드래그하거나 클릭하여 선택하세요
-                </p>
-                <p className="text-caption text-neutral-400 mt-xs">
-                  JPEG, PNG (최대 10MB)
-                </p>
+
+            {/* Crop controls — shown when file is selected */}
+            {file && preview && (
+              <div className="flex flex-col items-center gap-sm">
+                {isCropped ? (
+                  <div className="flex items-center gap-sm text-primary">
+                    <CheckCircle size={18} />
+                    <span className="text-body">영역이 선택되었습니다</span>
+                  </div>
+                ) : null}
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setIsCropping(true);
+                  }}
+                >
+                  <CropIcon size={16} />
+                  {isCropped ? '다시 선택' : '영역 선택하기'}
+                </Button>
               </div>
-            </>
-          )}
-        </div>
+            )}
+          </>
+        )}
 
         <input
           ref={fileInputRef}
@@ -139,14 +214,16 @@ export default function UploadPage() {
           </div>
         )}
 
-        <Button
-          onClick={handleSubmit}
-          disabled={!file || !selectedProfileId}
-          loading={loading}
-          className="w-full"
-        >
-          {loading ? 'AI가 분석 중입니다...' : '분석하기'}
-        </Button>
+        {!isCropping && (
+          <Button
+            onClick={handleSubmit}
+            disabled={!file || !selectedProfileId}
+            loading={loading}
+            className="w-full"
+          >
+            {loading ? 'AI가 분석 중입니다...' : '분석하기'}
+          </Button>
+        )}
       </div>
     </PageContainer>
   );

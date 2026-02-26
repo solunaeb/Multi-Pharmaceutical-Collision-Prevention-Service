@@ -3,7 +3,7 @@ import './globals.css';
 import { Providers } from './providers';
 
 export const metadata: Metadata = {
-  title: '약이름 — 다제약물 충돌 방지 서비스',
+  title: '약궁합 — 다제약물 충돌 방지 서비스',
   description: '약 사진 촬영 → AI 자동 인식 → 처방약·OTC·건강기능식품 통합 충돌 분석',
 };
 

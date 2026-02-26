@@ -10,6 +10,17 @@ import type {
 
 const DATA_DIR = path.resolve(__dirname, '../../../../files_real');
 
+interface CommonMedication {
+  item_name: string;
+  ingredient_eng: string;
+  ingredient_kor: string;
+  category: string;
+  atc_code: string;
+  med_type: string;
+  common_dose: string;
+  etc_otc: string;
+}
+
 class DataLoaderService {
   ingredientsByCode: Map<string, Ingredient> = new Map();
   ingredientsByName: Map<string, string[]> = new Map();
@@ -17,6 +28,7 @@ class DataLoaderService {
   supplementInteractions: SupplementDrugInteraction[] = [];
   duplicateGroups: DuplicateIngredientGroup[] = [];
   elderlyCautionByCode: Map<string, ElderlyCaution[]> = new Map();
+  commonMedications: CommonMedication[] = [];
 
   private loaded = false;
 
@@ -31,6 +43,7 @@ class DataLoaderService {
     this.loadSupplementInteractions();
     this.loadDuplicateGroups();
     this.loadElderlyCaution();
+    this.loadCommonMedications();
 
     this.loaded = true;
     console.log(`[DataLoader] Done in ${Date.now() - start}ms`);
@@ -39,6 +52,7 @@ class DataLoaderService {
     console.log(`[DataLoader] Supplement interactions: ${this.supplementInteractions.length}`);
     console.log(`[DataLoader] Duplicate groups: ${this.duplicateGroups.length}`);
     console.log(`[DataLoader] Elderly caution codes: ${this.elderlyCautionByCode.size}`);
+    console.log(`[DataLoader] Common medications: ${this.commonMedications.length}`);
   }
 
   private readJson<T>(filename: string): T {
@@ -95,6 +109,32 @@ class DataLoaderService {
       existing.push(item);
       this.elderlyCautionByCode.set(item.ingredient_code, existing);
     }
+  }
+
+  private loadCommonMedications(): void {
+    this.commonMedications = this.readJson<CommonMedication[]>('common_medications.json');
+  }
+
+  findMedicationByKoreanName(text: string): CommonMedication | undefined {
+    const normalized = text.replace(/\s+/g, '');
+
+    // Exact match
+    for (const med of this.commonMedications) {
+      if (normalized === med.item_name.replace(/\s+/g, '')) return med;
+    }
+
+    // Substring match (item_name found in text)
+    for (const med of this.commonMedications) {
+      const nameNorm = med.item_name.replace(/\s+/g, '');
+      if (normalized.includes(nameNorm)) return med;
+    }
+
+    // ingredient_kor match
+    for (const med of this.commonMedications) {
+      if (med.ingredient_kor && normalized.includes(med.ingredient_kor)) return med;
+    }
+
+    return undefined;
   }
 
   findIngredientCodes(ingredientName: string): string[] {
