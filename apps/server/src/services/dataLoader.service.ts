@@ -8,7 +8,7 @@ import type {
   ElderlyCaution,
 } from '../types';
 
-const DATA_DIR = path.resolve(__dirname, '../../../../files_real');
+const DATA_DIR = path.resolve(process.cwd(), '../../files_real');
 
 interface CommonMedication {
   item_name: string;
