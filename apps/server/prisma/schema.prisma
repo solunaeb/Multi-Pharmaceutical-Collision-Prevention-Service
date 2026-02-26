@@ -1,0 +1,83 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Profile {
+  id        String   @id @default(uuid())
+  name      String
+  birthYear Int?     @map("birth_year")
+  notes     String?
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  medications    Medication[]
+  ocrSessions    OcrSession[]
+  interactionLogs InteractionLog[]
+
+  @@map("profiles")
+}
+
+model Medication {
+  id           String    @id @default(uuid())
+  profileId    String    @map("profile_id")
+  name         String
+  ingredient   String?
+  dose         String?
+  days         Int?
+  type         String
+  source       String    @default("manual")
+  status       String    @default("active")
+  imageUrl     String?   @map("image_url")
+  ocrSessionId String?   @map("ocr_session_id")
+  registeredAt DateTime  @default(now()) @map("registered_at")
+  deactivatedAt DateTime? @map("deactivated_at")
+
+  profile    Profile     @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  ocrSession OcrSession? @relation(fields: [ocrSessionId], references: [id])
+  triggeredLogs InteractionLog[] @relation("TriggerMed")
+
+  @@index([profileId, status])
+  @@index([ingredient])
+  @@map("medications")
+}
+
+model OcrSession {
+  id              String    @id @default(uuid())
+  profileId       String    @map("profile_id")
+  imageUrl        String?   @map("image_url")
+  imageType       String    @map("image_type")
+  rawOcrResult    String?   @map("raw_ocr_result")
+  parsedMedsCount Int       @default(0) @map("parsed_meds_count")
+  confidenceScore Float?    @map("confidence_score")
+  status          String    @default("pending")
+  createdAt       DateTime  @default(now()) @map("created_at")
+
+  profile     Profile      @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  medications Medication[]
+
+  @@map("ocr_sessions")
+}
+
+model InteractionLog {
+  id             String   @id @default(uuid())
+  profileId      String   @map("profile_id")
+  triggerMedId   String?  @map("trigger_med_id")
+  analyzedMedIds String   @map("analyzed_med_ids")
+  riskLevel      String   @map("risk_level")
+  interactions   String
+  summary        String?
+  actionGuide    String?  @map("action_guide")
+  analyzedAt     DateTime @default(now()) @map("analyzed_at")
+
+  profile    Profile     @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  triggerMed Medication? @relation("TriggerMed", fields: [triggerMedId], references: [id])
+
+  @@index([profileId, analyzedAt])
+  @@index([riskLevel])
+  @@map("interaction_logs")
+}

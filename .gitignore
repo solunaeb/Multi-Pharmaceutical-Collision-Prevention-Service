@@ -52,9 +52,16 @@ Thumbs.db
 # TypeScript
 *.tsbuildinfo
 
+# SQLite
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
 # Build outputs
 build/
 out/
+.next/
 
 # Temporary files
 tmp/
